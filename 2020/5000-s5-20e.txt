@@ -1,0 +1,199 @@
+﻿5000-S5 (Front) 
+ 
+Protected B when completed 
+ 
+T1-2020 
+ 
+Schedule 5 
+ 
+Amounts for Spouse or Common-Law Partner and Dependants 
+ 
+Complete this schedule and attach it to your return to claim an amount on 
+line 30300, 30400, 30425, or 30450 of your return. For more information, see 
+lines 30300 and 30400 in the Federal Income Tax and Benefit Guide, and lines 
+30425 and 30450 on this form. 
+ 
+Line 30300 - Spouse or common-law partner amount 
+ 
+Did your marital status change to other than married or common-law in 2020? 
+ 
+Box 55220: If yes, tick this box (enter yes) ^
+and enter the date of the change. (Month/Day) ^
+ 
+Line 1: Your basic personal amount (line 30000 of your return) ^
+ 
+Line 2 and line 51090: If you are entitled to the Canada caregiver amount for 
+your spouse or common-law partner, enter $2,273. (See the "Canada caregiver 
+amount" in Step 5 of the guide and at line 30425 below.) ^
+ 
+Line 3: Add lines 1 and 2. = ^
+ 
+Line 4: Spouse's or common-law partner's net income from page 1 of your 
+return ^
+ 
+Line 5: Line 3 minus line 4 (if negative, enter "0"). Enter this amount on 
+line 30300 of your return. = ^
+ 
+Line 30400 - Amount for an eligible dependant 
+ 
+Did your marital status change to married or common-law in 2020? 
+ 
+Box 55290: If yes, tick this box (enter yes) ^
+and enter the date of the change. (Month/Day) ^
+ 
+Provide the requested information and complete the following calculation for 
+this dependant. 
+ 
+First and last name: ^
+Address: ^
+Year of birth ^
+Relationship to you ^
+Is this dependant physically or mentally infirm? Yes or No ^
+ 
+Line 1: Your basic personal amount (line 30000 of your return) ^
+ 
+Line 2 and line 51100: If you are entitled to the Canada caregiver amount for 
+your dependant (other than your infirm child under 18 years of age), enter 
+$2,273. (See "Canada caregiver amount" in Step 5 of the guide, read the note 
+below, and see line 30425 below.) ^
+ 
+Line 3: Add lines 1 and 2. = ^
+ 
+Line 4 and line 51106: Dependant's net income (line 23600 of their return) ^
+ 
+Line 5: Line 3 minus line 4 (if negative, enter "0"). Enter this amount on 
+line 30400 of your return. = ^
+ 
+Note: 
+If the dependant is your or your spouse's or common-law partner's infirm 
+child under 18 years of age, you must claim the Canada caregiver amount on 
+line 30500, not on line 51100. 
+ 
+Line 30425 - Canada caregiver amount for spouse or common-law partner, or 
+your eligible dependant age 18 or older 
+ 
+If you can claim an amount for your spouse or common-law partner on line 
+30300 of your return or for an eligible dependant 18 years of age or older on 
+line 30400 of your return, you may be able to claim an amount on line 30425 
+of your return. However, you must first claim the amount of $2,273 in 
+calculating either the amount on line 30300 or the amount on line 30400, 
+whichever applies. 
+ 
+To claim an amount on line 30425 of your return, you must first calculate 
+your spouse’s, common-law partner’s, or eligible dependant’s net income (line 
+23600 of their return or the amount it would be if they filed a return). Then 
+complete the calculation above for either line 30300 or line 30400, whichever 
+applies. Finally, complete the calculation for line 30425 on the next page. 
+ 
+If you cannot claim an amount on line 30425 of your return for an eligible 
+dependant 18 years of age or older because you have a spouse or common-law 
+partner, you still may be able to claim the Canada caregiver amount for other 
+infirm dependants age 18 or older on line 30450 of your return. See line 
+30450 on the next page. 
+ 
+Only one claim can be made for this amount. You cannot split this amount with 
+another person. 
+ 
+ 
+5000-S5 (Back) 
+ 
+Line 30425 - Canada caregiver amount for spouse or common-law partner, or 
+your eligible dependant age 18 or older (continued) 
+ 
+Complete this calculation only if you entered $2,273 on line 51090 or line 
+51100 of this schedule for a person whose net income is between $7,295 and 
+$24,361. 
+ 
+Line 1: Base amount 24,361.00 
+ 
+Line 2: Net income of this person (line 23600 of their return) ^
+ 
+Line 3: Line 1 minus line 2 (if negative, enter "0") (maximum $7,276) = ^
+ 
+Line 4: If you claimed this person on line 30300 or 30400 of your return, 
+enter the amount you claimed. ^
+ 
+Line 5: Allowable amount for this person: line 3 minus line 4 (if negative, 
+enter "0") Enter this amount on line 30425 of your return. = ^
+ 
+Line 30450 - Canada caregiver amount for other infirm dependants age 18 or 
+older 
+ 
+(Attach a separate sheet if you need more space) 
+ 
+You can claim an amount for each dependent who meets all the following 
+conditions. They: 
+ 
+- were dependent on you because of an impairment in physical or mental 
+functions 
+ 
+- were 18 years of age or older 
+ 
+- were your or your spouse’s or common-law partner’s child, grandchild, 
+parent, grandparent, brother, sister, aunt, uncle, niece, or nephew 
+ 
+- were a resident of Canada at any time in the year (but not a person who was 
+only visiting you) 
+ 
+- had a net income (line 23600 of their return or the amount it would be if 
+they filed a return) of less than $24,361 
+ 
+You cannot claim an amount on line 30450 of your return for dependants who do 
+not have an impairment in physical or mental functions, including a parent or 
+grandparent. A parent includes someone on whom you were completely dependent 
+and who had custody and control of you when you were under 19 years of age. 
+Similarly, a child can include someone older than you who has become 
+completely dependent on you for support and over whom you have custody and 
+control. 
+ 
+If anyone (including you) is claiming an amount on line 30300 or on line 
+30400 of the return for the dependant, you cannot claim an amount on line 
+30450 of the return for that dependant. 
+ 
+If you had to make support payments for a child, you cannot claim an amount 
+on line 30450 of your return for that child. However, if you were separated 
+from your spouse or common-law partner for only part of 2020 because of a 
+breakdown in your relationship, you may be able to claim an amount for that 
+child on line 30450 of your return if you do not claim any support amounts 
+paid to your spouse or common-law partner on line 22000 of your return. You 
+can claim whichever is better for you. 
+ 
+The Canada Revenue Agency may ask for a signed statement from a medical 
+practitioner indicating that the person is dependent on others because of 
+this impairment in physical or mental functions, as well as the nature of the 
+impairment, when it began, and how long it is expected to last. 
+ 
+Note 
+If you and another person support the same dependant, you can split the claim 
+for that dependant. However, the total amount of your claim and the other 
+person’s claim cannot be more than the maximum amount allowed for that 
+dependant. 
+ 
+Provide the requested information and complete the following calculation for 
+each dependant. 
+ 
+First and last name: ^
+Address: ^
+Year of birth: ^
+Relationship to you ^
+ 
+Line 1: Base amount 24,361.00 
+ 
+Line 2: Infirm dependant's net income (line 23600 of their return) ^
+ 
+Line 3: Allowable amount for this dependant: line 1 minus line 2 (if 
+negative, enter "0") (maximum $7,276) = ^
+ 
+Enter on line 30450 of your return the total amount you are claiming for all 
+dependants. 
+ 
+Box 51120: Enter the total number of dependants for whom you are claiming an 
+amount at line 30450 of your return. ^
+ 
+See the privacy notice on your return.
+
+ 
+
+
+
+

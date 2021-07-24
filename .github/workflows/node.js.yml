@@ -1,0 +1,55 @@
+name: Node.js CI
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "**.g4"
+      - "**.gradle*"
+      - "**.java"
+      - "**.kt"
+  pull_request:
+    branches: [main]
+    paths-ignore:
+      - "**.g4"
+      - "**.gradle*"
+      - "**.java"
+      - "**.kt"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [12.x, 14.x, 16.x]
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: npm
+      - run: npm install --global npm
+      - run: npm ci
+      - run: npm run-script --if-present --workspaces build
+      - run: git checkout origin/upstream :^20*/
+      - run: npm test
+      - run: git diff --exit-code
+      - uses: actions/upload-artifact@v2
+        with:
+          name: website
+          path: packages/website/public
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: git switch --orphan gh-pages
+      - uses: actions/download-artifact@v2
+        with:
+          name: website
+      - run: git add .
+      - run: git config user.name github-actions
+      - run: git config user.email github-actions@github.com
+      - run: git commit --message "🚀 Deploy $GITHUB_SHA"
+      - run: git push --force origin gh-pages

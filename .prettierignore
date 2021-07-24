@@ -1,0 +1,8 @@
+/.gradle/
+/20*/
+build/
+node_modules/
+packages/rehype-remark/**/*.js
+packages/website/.cache/
+packages/website/public/
+packages/website/src/pages/20*/

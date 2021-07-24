@@ -1,0 +1,71 @@
+﻿5000-S9 
+ 
+Schedule 9 
+ 
+Protected B when completed 
+ 
+T1-2012 
+ 
+Donations and Gifts 
+ 
+For more information, see line 349 in the guide and see Pamphlet P113, Gifts 
+and Income Tax. 
+ 
+Attach a copy of this schedule to your return along with the official 
+receipts that support your claim. Remember, you may have charitable donations 
+shown on your T4 and T4A slips. 
+ 
+Line 1: Donations made to registered charities, registered Canadian amateur 
+athletic associations, and Canadian low-cost housing corporations for the 
+aged ^
+ 
+Line 2: Donations to government bodies (donations to the government of 
+Canada, a province or territory, to a municipality in Canada or a municipal 
+or public body performing a function of government in Canada) ^
+ 
+Line 3 and line 333: Donations made to prescribed universities outside Canada 
+^
+ 
+Line 4 and line 334: Donations made to the United Nations, its agencies, and 
+certain charitable organizations outside Canada ^
+ 
+Line 5: Add lines 1 to 4. Total eligible amount of charitable donations and 
+government gifts = ^
+ 
+Line 6: Enter your net income from line 236 of your return. ^
+multiplied by 75% = ^
+ 
+Note: If the amount on line 5 is less than the amount on line 6, enter the 
+amount from line 5 on line 340 below, and continue completing the schedule 
+from that line. 
+ 
+Line 7 and line 337: Gifts of depreciable property (from Chart 2 in Pamphlet 
+P113, Gifts and Income Tax) ^
+ 
+Line 8 and line 339: Gifts of capital property (from Chart 1 in Pamphlet 
+P113, Gifts and Income Tax) ^
+ 
+Line 9: Add lines 7 and 8. = ^
+multiplied by 25% = ^
+ 
+Line 10: Enter the total of lines 6 and 9 or the amount on line 236 of your 
+return, whichever is less. Total donations limit = ^
+ 
+Line 340: Allowable charitable donations and government gifts (enter the 
+amount from line 5 or line 10, whichever is less) ^
+ 
+Line 342: Eligible amount of cultural and ecological gifts (see Line 349 in 
+the guide) ^
+ 
+Line 344: Add lines 340 and 342. = ^
+ 
+Line 345: Enter $200 or the amount from line 344, whichever is less. ^
+Line 11 and line 346: Line 345 multiplied by 15% = ^
+ 
+Line 347: Line 344 minus line 345 = ^
+Line 12 and line 348: Line 347 mutiplied by 29% = ^
+ 
+Line 13: Add lines 11 and 12. Donations and gifts = ^
+Enter this amount on line 349 of Schedule 1. ^
+ 
+Privacy Act, Personal Information Bank number CRA PPU 005

@@ -1,0 +1,268 @@
+﻿5010-D (Page 1 of 3) 
+ 
+Protected B when completed 
+ 
+2019 
+ 
+Worksheet BC428 
+ 
+Use this worksheet to calculate the amounts to enter on your Form BC428, 
+British Columbia Tax. 
+ 
+Keep this worksheet for your records. Do not attach it to your return. 
+ 
+Line 58080 - Age amount (if born in 1954 or earlier) 
+ 
+If the amount from line 23600 of your return is: 
+ 
+- $35,660 or less, enter $4,791 on line 58080 of your Form BC428 
+- more than $35,660 but not more than $67,600, complete the calculation below 
+- more than $67,600, enter "0" on line 58080 of your Form BC428 
+ 
+Line 1: Maximum amount 4,791.00 
+Line 2: Amount from line 23600 of your return ^
+Line 3: Income threshold 35,660.00 
+Line 4: Line 2 minus line 3 (if negative, enter "0") = ^
+Line 5: Applicable rate 15% 
+Line 6: Multiply line 4 by line 5. = ^
+Line 7: Line 1 minus line 6 (if negative, enter "0") = ^
+ 
+Enter this amount on line 58080 of your Form BC428. 
+ 
+Line 58175 - British Columbia caregiver amount 
+ 
+Complete one column for each dependant. If you have more than three 
+dependants, use a separate sheet of paper. 
+ 
+*** Transcriber's Note: In print, the following table is set-up as 3 columns. 
+Use column 1 for Dependant 1. Use column 2 for the Dependant 2. Use column 3 
+for the Dependant 3. *** 
+ 
+Column 1: Dependant 1 
+Line 1: Base amount 20,494.00 
+ 
+Line 2: Dependant's net income from line 23600 of their return ^
+ 
+Line 3: Line 1 minus line 2 (if negative, enter "0") (maximum $4,674 per 
+dependant) = ^
+ 
+Line 4: Amount claimed for this dependant on line 58120 or 58160 of your Form 
+SK428, if any ^
+ 
+Line 5: Allowable amount for this dependant: Line 3 minus line 4 (if 
+negative, enter "0") = ^
+ 
+Column 2: Dependant 2 
+Line 1: Base amount 20,494.00 
+ 
+Line 2: Dependant's net income from line 23600 of their return ^
+ 
+Line 3: Line 1 minus line 2 (if negative, enter "0") (maximum $4,674 per 
+dependant) = ^
+ 
+Line 4: Amount claimed for this dependant on line 58120 or 58160 of your Form 
+SK428, if any ^
+ 
+Line 5: Allowable amount for this dependant: Line 3 minus line 4 (if 
+negative, enter "0") = ^
+ 
+Column 3: Dependant 3 
+Line 1: Base amount 20,494.00 
+ 
+Line 2: Dependant's net income from line 23600 of their return ^
+ 
+Line 3: Line 1 minus line 2 (if negative, enter "0") (maximum $4,674 per 
+dependant) = ^
+ 
+Line 4: Amount claimed for this dependant on line 58120 or 58160 of your Form 
+SK428, if any ^
+ 
+Line 5: Allowable amount for this dependant: Line 3 minus line 4 (if 
+negative, enter "0") = ^
+ 
+Line 6: Add the amounts from line 5 for columns 1, 2 and 3 (and others, if 
+any). ^
+ 
+Enter the total on line 58175 of your Form BC428. 
+ 
+ 
+5010-D (Page 2 of 3) 
+ 
+Worksheet BC428 (continued) 
+ 
+Line 58440 - Disability amount (for self) 
+ 
+Complete the following calculation if you were under 18 years of age on 
+December 31, 2019: 
+ 
+Line 1: Base amount 8,012.00 
+ 
+Line 2: Maximum amount 4,674.00 
+ 
+Line 3: Total child care and attendant care expenses for you claimed by you 
+or another person ^
+ 
+Line 4: Threshold for child and attendant care expenses 2,714.00 
+ 
+Line 5: Line 3 minus line 4 (if negative, enter "0") ^
+ 
+Line 6: Line 2 minus line 5 (if negative, enter "0") ^
+ 
+Line 7: Add lines 1 and 6. (maximum $12,686) = ^
+ 
+Enter this amount on line 58440 of your Form BC428. 
+ 
+Line 58480 - Disability amount transferred from a dependant 
+ 
+Complete this calculation for each dependant. If you have more than one 
+dependant, use a separate sheet of paper. 
+ 
+Note: 
+If you and your dependant were not residents of the same province or 
+territory at the end of the year, special rules may apply. Contact the Canada 
+Revenue Agency to find out how much you can claim. 
+ 
+Line 1: Base amount 8,012.00 
+ 
+If the dependant was under 18 years of age on December 31, 2019, complete 
+lines 2 to 12. If the dependant was 18 years of age or older, enter "0" on 
+line 6 and continue on line 7. 
+ 
+Line 2: Maximum amount 4,674.00 
+ 
+Line 3: Total child care and attendant care expenses for this dependant 
+claimed by you or another person ^
+ 
+Line 4: Threshold for child and attendant care expenses 2,714.00 
+ 
+Line 5: Line 3 minus line 4 (if negative, enter "0") ^
+ 
+Line 6: Line 2 minus line 5 (if negative, enter "0") = ^
+ 
+Line 7: Add lines 1 and 6. (maximum $12,686) = ^
+ 
+Line 8: Total of amounts your dependant can claim on lines 9 to 18 of their 
+Form BC428 ^
+ 
+Line 9: Add lines 7 and 8. = ^
+ 
+Line 10: Dependant's taxable income from line 26000 of their return ^
+ 
+Line 11: Line 9 minus line 10 (if negative, enter "0"). = ^
+ 
+Line 12: Allowable amount for this dependant: Enter the amount from line 7 or 
+line 11, whichever is less. ^
+ 
+Enter on line 58480 of your Form BC428 the total of allowable amounts claimed 
+for all dependants. 
+ 
+ 
+5010-D (Page 3 of 3) 
+ 
+Worksheet BC428 (continued) 
+ 
+Line 58729 - Allowable amount of medical expenses for other dependants 
+ 
+Complete one column for each dependant. If you have more than three 
+dependants, use a separate sheet of paper. 
+ 
+*** Transcriber's Note: In print, the following table is set-up as 3 columns. 
+Use column 1 for Dependant 1. Use column 2 for the Dependant 2. Use column 3 
+for the Dependant 3. *** 
+ 
+Column 1: Dependant 1 
+Line 1: Medical expenses for other dependant ^
+ 
+Line 2: Enter whichever is less: $2,221 or 3% of the dependant's net income 
+from line 23600 of their return ^
+ 
+Line 3: Line 1 minus line 2 (if negative, enter "0") = ^
+ 
+Column 2: Dependant 2 
+Line 1: Medical expenses for other dependant ^
+ 
+Line 2: Enter whichever is less: $2,221 or 3% of the dependant's net income 
+from line 23600 of their return ^
+ 
+Line 3: Line 1 minus line 2 (if negative, enter "0") = ^
+ 
+Column 3: Dependant 3 
+Line 1: Medical expenses for other dependant ^
+ 
+Line 2: Enter whichever is less: $2,221 or 3% of the dependant's net income 
+from line 23600 of their return ^
+ 
+Line 3: Line 1 minus line 2 (if negative, enter "0") = ^
+ 
+Line 4: Add the amounts from line 3 for columns 1, 2, and 3 (and others, if 
+any). ^
+ 
+Enter the total on line 58729 of your Form BC428. 
+ 
+Line 61520 - British Columbia dividend tax credit 
+ 
+Calculate the amount to enter on line 61520 of your Form BC428 by completing 
+one of the following calculations: 
+ 
+- If you entered an amount on line 12000 of your return but no amount on line 
+12010: 
+ 
+Amount from line 12000 of your return ^
+Multiplied by 12% = ^
+ 
+Enter this amount on line 61520 of your Form BC428. 
+ 
+- If you entered an amount on lines 12000 and 12010 of your return: 
+ 
+Line 1: Amount from line 12000 of your return ^
+ 
+Line 2: Amount from line 12010 of your return ^
+ 
+Line 3: Line 2 multiplied by 1.96% = ^
+ 
+Line 4: Line 1 minus line 2 = ^
+ 
+Line 5: Line 4 multiplied by 12% = ^
+ 
+Line 6: Add lines 3 and 5. = ^
+ 
+Enter this amount on line 61520 of your Form BC428. 
+ 
+Line 73 - British Columbia political contribution tax credit 
+ 
+If your total political contributions from line 72 of your Form BC428 are 
+more than $1,150, enter $500 on line 73 of your Form BC428. If not, use the 
+amount from line 72 to decide which column to complete. 
+ 
+*** Transcriber's Note: Use column 1 if the amount on line 72 is $100 or 
+less. Use column 2 if the amount on line 72 is more than $100 but not more 
+than $550. Use column 3 if the amount on line 72 is more than $500. *** 
+ 
+Column 1: Line 72 is $100 or less 
+Line 1: Enter your total contributions from line 72 of your Form BC428. ^
+Line 2: 0.00 
+Line 3: Line 1 minus line 2 (cannot be negative) = ^
+Line 4: Rate 75% 
+Line 5: Multiply line 3 by line 4. = ^
+Line 6: 0.00 
+Line 7: Add lines 5 and 6. = ^
+ 
+Column 2: Line 72 is more than $100 but not more than $550 
+Line 1: Enter your total contributions from line 72 of your Form BC428. ^
+Line 2: 100.00 
+Line 3: Line 1 minus line 2 (cannot be negative) = ^
+Line 4: Rate 50% 
+Line 5: Multiply line 3 by line 4. = ^
+Line 6: 75.00 
+Line 7: Add lines 5 and 6. = ^
+ 
+Column 3: Line 72 is more than $500 
+Line 1: Enter your total contributions from line 72 of your Form BC428. ^
+Line 2: 550.00 
+Line 3: Line 1 minus line 2 (cannot be negative) = ^
+Line 4: Rate 33.33% 
+Line 5: Multiply line 3 by line 4. = ^
+Line 6: 300.00 
+Line 7: Add lines 5 and 6. = ^
+ 
+Enter this amount on line 73 of your Form BC428.

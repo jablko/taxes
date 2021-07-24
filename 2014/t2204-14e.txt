@@ -1,0 +1,78 @@
+﻿*** Transcriber's Note: Please set your synthesizer to read most punctuation. 
+When you encounter the caret sign at the end of the line, please enter the 
+applicable information, if necessary. *** 
+ 
+Canada Revenue Agency 
+ 
+Protected B when completed 
+ 
+T2204 E (14) (Front) 
+ 
+Employee Overpayment of 2014 Employment Insurance Premiums 
+ 
+Complete this form to calculate any overpayment of employment insurance (EI) 
+premiums paid through employment. 
+ 
+To be refunded, the amount of the EI overpayment has to be more than $1. 
+ 
+If you have self-employment and other eligible earnings and have entered into 
+an agreement with the Canada Employment Insurance Commission through Service 
+Canada to participate in the EI program for access to EI special benefits, 
+complete Schedule 13, then complete this form. 
+ 
+Do not complete this form if you were a resident of Quebec on December 31, 
+2014, and you have to complete Schedule 10. 
+ 
+Calculating your employment insurance overpayment  
+ 
+Line 1: Total EI insurable earnings (box 24 or, if blank, box 14 of your T4 
+slips) (read the note below) ^
+ 
+Line 2: Total self-employment and other earnings eligible for the EI program 
+for access to EI special benefits ^
+ 
+Line 3: Add lines 1 and 2. (maximum $48,600) = ^
+ 
+Total premiums deducted: 
+Line 4: Residents of other than Quebec (box 18 and box 55 of your T4 slips) 
+Quebec residents (box 18 of your T4 slips) ^
+ 
+Line 5: Total premiums payable: enter the amount from line 10 of Schedule 13 
+^
+ 
+Line 6: Add lines 4 and 5. = ^
+ 
+Line 7: Line 3 minus $2,000 (if negative, enter "0") ^
+ 
+Line 8: Line 6 minus line 7 (if negative, enter "0") = ^
+ 
+Total premiums deducted: 
+Line 9: Residents of other than Quebec (box 18 and box 55 of your T4 slips) 
+Quebec residents (from box 18 of your T4 slips) ^
+ 
+Line 10: Required premium: Residents of other than Quebec (multiply line 1 by 
+1.88%) (maximum $913.68) Quebec residents (multiply line 1 by 1.53%) (maximum 
+$743.58) ^
+ 
+Line 11: Line 9 minus line 10 (if negative, enter "0") = ^
+ 
+Line 12: Enter the amount from line 8 or line 11, whichever is greater. 
+Employment insurance overpayment ^
+ 
+Enter the amount from line 12 on line 450 of your return only if it is more 
+than $1. However, if the amount on line 12 is greater than the amount on line 
+9, enter instead the amount from line 9 on line 450. 
+ 
+Enter the amount from line 7, 9, or 10, whichever is least, on line 312 of 
+Schedule 1 and, if it applies, on line 5832 of Form 428. We may adjust your 
+claim if there is an amount on line 2 and the amount on line 3 is less than 
+$2,038 ($2,031 if you were a resident of Quebec). 
+ 
+Note: If you have no self-employment earnings and your total EI insurable 
+earnings on your T4 slips are less than $2,000, enter "0". However, if you 
+have self-employment earnings and have entered into an agreement with the 
+Canada Employment Insurance Commission to participate in the EI program for 
+access to EI special benefits, enter the total EI insurable earnings from 
+your T4 slips. 
+ 
+See the privacy notice on your return.

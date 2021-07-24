@@ -1,0 +1,4 @@
+*.js
+/.gradle/
+/build/
+node_modules/

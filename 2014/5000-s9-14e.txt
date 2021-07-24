@@ -1,0 +1,93 @@
+﻿5000-S9 
+ 
+Protected B when completed 
+ 
+T1-2014 
+ 
+Schedule 9 
+ 
+Donations and Gifts 
+ 
+For more information, see line 349 in the guide and see Pamphlet P113, Gifts 
+and Income Tax. 
+ 
+Attach a copy of this schedule to your return. Remember, you may have 
+charitable donations shown on your T4 and T4A slips. 
+ 
+Line 1: Donations made to registered charities, registered Canadian amateur 
+athletic associations, and registered Canadian low-cost housing corporations 
+for the aged ^
+ 
+Line 2: Donations made to government bodies (government of Canada, a province 
+or territory, a registered municipality in Canada, or a registered municipal 
+or public body performing a function of government in Canada) ^
+ 
+Line 3 and line 333: Donations made to registered universities outside Canada 
+that are prescribed ^
+ 
+Line 4 and line 334: Donations made to the United Nations, its agencies, and 
+certain registered foreign charitable organizations ^
+ 
+Line 5: Add lines 1 to 4. Total eligible amount of charitable donations = ^
+ 
+Line 6: Enter your net income from line 236 of your return. ^
+multiplied by 75% = ^
+ 
+Note: If the amount on line 5 is less than the amount on line 6, enter the 
+amount from line 5 on line 340 below, and continue completing the schedule 
+from that line. 
+ 
+Line 7 and line 337: Gifts of depreciable property (from Chart 2 in Pamphlet 
+P113, Gifts and Income Tax) ^
+ 
+Line 8 and line 339: Gifts of capital property (from Chart 1 in Pamphlet 
+P113, Gifts and Income Tax) ^
+ 
+Line 9: Add lines 7 and 8. = ^
+multiplied by 25% = ^
+ 
+Line 10: Enter the total of lines 6 and 9 or the amount on line 236 of your 
+return, whichever is less. Total donations limit = ^
+ 
+Line 340: Allowable charitable donations (enter the amount from line 5 or 
+line 10, whichever is less) ^
+ 
+Line 342: Eligible amount of cultural and ecological gifts (see line 349 in 
+the guide) ^
+ 
+Line 344: Add lines 340 and 342. = ^
+ 
+Line 345: Enter $200 or the amount from line 344, whichever is less. ^
+Line 11 and line 346: Line 345 multiplied by 15% = ^
+ 
+Line 347: Line 344 minus line 345 = ^
+Line 12 and line 348: Line 347 multiplied by 29% = ^
+ 
+First-time donor's super credit (FDSC) 
+ 
+For the purpose of the FDSC, you will be considered a "first-time donor" if 
+neither you nor your spouse or common-law partner (if you have one) has 
+claimed and been allowed a charitable donations tax credit for any year after 
+2007. 
+ 
+Only gifts of money made after March 20, 2013, to a maximum of $1,000, are 
+eligible for the FDSC. 
+ 
+Note: If you have a spouse or common-law partner, you can share the claim for 
+the FDSC, but the total combined donations claimed cannot be more than 
+$1,000. 
+ 
+Line 343: Enter the amount of gifts of money* made after March 20, 2013. 
+(Maximum $1,000) = ^
+Line 13 and line 341: Line 343 multiplied by 25% = ^
+ 
+Line 14: Add lines 11, 12, and 13. Enter this amount on line 349 of Schedule 
+1. Donations and gifts = ^
+ 
+* The amount claimed on line 343 must also be claimed on line 340 by you or 
+your spouse or common-law partner (if you have one). Also note that if the 
+donations are shared, the combined amount on line 343 for you and your spouse 
+or common-law partner cannot exceed the combined amount claimed on line 340 
+by both of you. 
+ 
+See the privacy notice on your return.

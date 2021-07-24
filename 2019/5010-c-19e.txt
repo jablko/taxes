@@ -1,0 +1,298 @@
+﻿5010-C (Page 1 of 4) 
+ 
+Protected B when completed 
+ 
+Form BC428 
+ 
+2019 
+ 
+British Columbia Tax 
+ 
+This is Step 6 in completing your return. Complete this form and attach a 
+copy to your return. 
+ 
+Claim only the credits that apply to you. 
+ 
+Part A - British Columbia non-refundable tax credits 
+ 
+Line 56090: For internal use only 
+ 
+Line 1 and Line 58040: Basic personal amount Claim $10,682 ^
+ 
+Line 2 and Line 58080: Age amount (if born in 1954 or earlier) (use Worksheet 
+BC428) (maximum $4,791) ^
+ 
+Spouse or common-law partner amount 
+Line 3: Base amount 10,062.00 
+ 
+Line 4: Your spouse's or common-law partner's net income from line 23600 of 
+their return ^
+ 
+Line 5 and Line 58120: Line 3 minus line 4 (if negative, enter "0") (maximum 
+$9,147) = ^
+ 
+Amount for an eligible dependant 
+Line 6: Base amount 10,062.00 
+ 
+Line 7: Your eligible dependant's net income from line 23600 of their return 
+^
+ 
+Line 8 and Line 58160: Line 6 minus line 7 (if negative, enter "0") (maximum 
+$9,147) = ^
+ 
+Line 9: Add lines 1, 2, 5, and 8. = ^
+ 
+Line 10 and Line 58175: British Columbia caregiver amount (use Worksheet 
+BC428) ^
+ 
+CPP or QPP contributions: 
+Line 11 and Line 58240: Amount from line 30800 of your return ^
+ 
+Line 12 and Line 58280: Amount from line 31000 of your return ^
+ 
+Employment insurance premiums: 
+Line 13 and Line 58300: Amount from line 31200 of your return ^
+ 
+Line 14 and Line 58305: Amount from line 31217 of your return ^
+ 
+Line 15 and Line 58315: Volunteer firefighters' amount ^
+ 
+Line 16 and Line 58316: Search and rescue volunteers' amount ^
+ 
+Line 17 and Line 58330: Adoption expenses (amount from line 31300 of your 
+return) ^
+ 
+Line 18 and Line 58360: Pension income amount (maximum $1,000) ^
+ 
+Line 19 and Line 58440: Disability amount (for self) (Claim $8,012, or if you 
+were under 18 years of age, use Worksheet BC428.) ^
+ 
+Line 20 and Line 58480: Disability amount transferred from a dependant (use 
+Worksheet BC428) ^
+ 
+Line 21 and Line 58520: Interest paid on your student loans (amount from line 
+31900 of your return) ^
+ 
+Line 22 and Line 58560: Your tuition and education amounts (attach Schedule 
+BC(S11)) ^
+ 
+Line 23 and Line 58600: Tuition amount transferred from a child ^
+ 
+Line 24 and Line 58640: Amounts transferred from your spouse or common-law 
+partner (attach Schedule BC(S2)) ^
+ 
+Line 25: Add lines 9 to 24. = ^
+ 
+Continue on the next page. 
+ 
+ 
+5010-C (Page 2 of 4) 
+ 
+Part A - British Columbia non-refundable tax credits (continued) 
+ 
+Line 26: Amount from line 25 of the previous page ^
+ 
+Medical expenses: 
+Line 27 and Line 58689: Amount from line 33099 of your return ^
+ 
+Line 28: Enter whichever is less: $2,221 or 3% of line 23600 of your return. 
+^
+ 
+Line 29: Line 27 minus line 28 (if negative, enter "0") = ^
+ 
+Line 30 and Line 58729: Allowable amount of medical expenses for other 
+dependants (use Worksheet BC428) ^
+ 
+Line 31 and Line 58769: Add lines 29 and 30. = ^
+ 
+Line 32 and Line 58800: Add lines 26 and 31. = ^
+ 
+Line 33: British Columbia non-refundable tax credit rate 5.06% 
+ 
+Line 34 and Line 58840: Multiply line 32 by line 33. = ^
+ 
+Donations and gifts: 
+Line 35: Amount from line 16 of your federal Schedule 9 ^
+multiplied by 5.06% = ^
+ 
+Line 36: Amount from line 17 of your federal Schedule 9 ^
+multiplied by 16.8% = ^
+ 
+Line 37 and Line 58969: Add lines 35 and 36. = ^
+ 
+Line 38: Add lines 34 and 37. = ^
+ 
+Line 39 and Line 58980: Farmers' food donation tax credit: Enter the amount 
+of qualifying gifts also claimed on line 37. ^
+multiplied by 25% = ^
+ 
+Line 40 and Line 61500: Add lines 38 and 39. Enter this amount on line 52. 
+British Columbia non-refundable tax credits = ^
+ 
+Part B - British Columbia tax on taxable income 
+ 
+Line 41: Enter your taxable income from line 26000 of your return. ^
+ 
+Use the amount from line 41 to decide which column to complete. 
+ 
+*** Transcriber's Note: Use column 1 if the amount on line 41 is $40,707 or 
+less. Use column 2 if the amount on line 41 is more than $40,707 but not more 
+than $81,416. Use column 3 if the amount on line 41 is more than $81,416 but 
+not more than $93,476. Use column 4 if the amount on line 41 is more than 
+$93,476 but not more than $113,506. Use column 5 if the amount on Line 41 is 
+more than $113,506 but not more than $153,900. Use column 6 if the amount on 
+line 41 is more than $153,900 *** 
+ 
+Column 1: Line 41 is $40,707 or less 
+Line 42: Amount from line 41 ^
+Line 43: 0.00 
+Line 44: Line 42 minus line 43 (cannot be negative) = ^
+Line 45: Rate 5.06% 
+Line 46: Multiply line 44 by line 45 = ^
+Line 47: 0.00 
+Line 48: Add lines 46 and 47. British tax on taxable income = ^
+ 
+Column 2: Line 41 is more than $40,707 but not more than $81,416 
+Line 42: Amount from line 41 ^
+Line 43: 40,707.00 
+Line 44: Line 42 minus line 43 (cannot be negative) = ^
+Line 45: Rate 7.7% 
+Line 46: Multiply line 44 by line 45 = ^
+Line 42: 2,060.00 
+Line 48: Add lines 46 and 47. British tax on taxable income = ^
+ 
+Column 3: Line 41 is more than $81,416 but not more than $93,476 
+Line 42: Amount from line 41 ^
+Line 43: 81,416.00 
+Line 44: Line 42 minus line 43 (cannot be negative) = ^
+Line 45: Rate 10.5% 
+Line 46: Multiply line 44 by line 45 = ^
+Line 47: 5,195.00 
+Line 48: Add lines 46 and 47. British tax on taxable income = ^
+ 
+Column 4: Line 41 is more than $93,476 but not more than $113,506 
+Line 42: Amount from line 41 ^
+Line 43: 93,476.00 
+Line 44: Line 42 minus line 43 (cannot be negative) = ^
+Line 45: Rate 12.29% 
+Line 46: Multiply line 44 by line 45 = ^
+Line 47: 6,461.00 
+Line 48: Add lines 46 and 47. British tax on taxable income = ^
+ 
+Column 5: Line 41 is more than $113,506 but not more than $153,900 
+Line 42: Amount from line 41 ^
+Line 43: 113,506.00 
+Line 44: Line 42 minus line 43 (cannot be negative) = ^
+Line 45: Rate 14.7% 
+Line 46: Multiply line 44 by line 45 = ^
+Line 47: 8,923.00 
+Line 48: Add lines 46 and 47. British tax on taxable income = ^
+ 
+Column 6: Line 41 is more than $153,900 
+Line 42: Amount from line 41 ^
+Line 43: 153,900.00 
+Line 44: Line 42 minus line 43 (cannot be negative) = ^
+Line 45: Rate 16.8% 
+Line 46: Multiply line 44 by line 45 = ^
+Line 47: 14,861.00 
+Line 48: Add lines 46 and 47. British tax on taxable income = ^
+ 
+Continue on the next page. 
+ 
+ 
+5010-C (Page 3 of 4) 
+ 
+Part C - British Columbia tax 
+ 
+Line 49: Enter your British Columbia tax on taxable income from line 48 of 
+the previous page. ^
+ 
+Line 50 and Line 61510: Enter your British Columbia tax on split income from 
+Form T1206. ^
+ 
+Line 51: Add lines 49 and 50. = ^
+ 
+Line 52: Enter your British Columbia non-refundable tax credits from line 40. 
+^
+ 
+Line 53 and Line 61520: British Columbia dividend tax credit: Credit 
+calculated for line 61520 on Worksheet BC428 ^
+ 
+Line 54 and Line 61540: British Columbia minimum tax carryover Amount from 
+line 40427 of your return ^
+multiplied by 33.7% = ^
+ 
+Line 55: Add lines 52 to 54. = ^
+ 
+Line 56: Line 51 minus line 55 (if negative, enter "0") = ^
+ 
+Line 57: British Columbia additional tax for minimum tax purposes Amount from 
+line 120 of Form T691 ^
+multiplied by 33.7% = ^
+ 
+Line 58: Add lines 56 and 57. = ^
+ 
+Line 59: Enter the provincial foreign tax credit from Form T2036 ^
+ 
+Line 60: Line 58 minus line 59 (if negative, enter "0") = ^
+ 
+BC tax reduction 
+ 
+If your net income from line 23600 of your return is $33,702 or more, enter 
+"0" on line 67 and continue on line 68. If your net income from line 23600 of 
+your return is less than $33,702, complete the following calculation: 
+ 
+Line 61: Basic reduction Claim $464 ^
+ 
+Line 62: Enter your net income from line 23600 of your return. ^
+ 
+Line 63: Base amount 20,668.00 
+ 
+Line 64: Line 62 minus line 63 (if negative, enter "0") = ^
+ 
+Line 65: Applicable rate 3.56% 
+ 
+Line 66: Multiply line 64 by line 65. = ^
+ 
+Line 67: Line 61 minus line 66 (if negative, enter "0") = ^
+ 
+Line 68: Line 60 minus line 67 (if negative, enter "0") = ^
+ 
+Line 69: Logging tax credit from Form FIN 542S or Form FIN 542P ^
+ 
+Line 70: Line 68 minus line 69 (if negative, enter "0") = ^
+ 
+Continue on the next page. 
+ 
+ 
+5010-C (Page 4 of 4) 
+ 
+Part C - British Columbia tax (continued) 
+ 
+Line 71: Amount from line 70 of the previous page ^
+ 
+Line 72 and Line 60400: British Columbia political contribution tax credit: 
+British Columbia political contributions made in 2019 ^
+ 
+Line 73: Credit calculated for line 73 on Worksheet BC428 (maximum $500) ^
+ 
+Line 74: Line 71 minus line 73 (if negative, enter "0") = ^
+ 
+Line 75 and Line 60450: British Columbia employee investment tax credits 
+Enter your employee share ownership plan tax credit from Certificate ESOP 20. 
+^
+ 
+Line 76 and Line 60470: Enter your employee venture capital tax credit from 
+Certificate EVCC 30. ^
+ 
+Line 77: Add lines 75 and 76. (maximum $2,000) = ^
+ 
+Line 78: Line 74 minus line 77 (if negative, enter "0") = ^
+ 
+Line 79 and Line 68810: British Columbia mining flow-through share tax credit 
+Enter the tax credit amount calculated on Form T1231. ^
+ 
+Line 80: Line 78 minus line 79 (if negative, enter "0") Enter the result on 
+line 42800 of your return. British Columbia tax = ^
+ 
+See the privacy notice on your return.

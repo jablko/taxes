@@ -1,0 +1,420 @@
+﻿5010-R (Page 1 of 4) 
+ 
+Canada Revenue Agency 
+ 
+T1 GENERAL 2010 
+ 
+Income Tax and Benefit Return 
+ 
+Complete all the sections that apply to you in order to benefit from amounts 
+to which you are entitled. 
+ 
+Code BC 1 
+ 
+Identification 
+ 
+Attach your personal label here. Correct any wrong information. If you are 
+not attaching a label, print your name and address below. 
+ 
+First name and initial ^
+Last name ^
+Mailing address: (in the following format: Apartment Number - Street Number 
+Street name) ^
+Post Office Box ^
+Rural Route ^
+City ^
+Province/Territory ^
+Postal code ^
+ 
+Information about your residence 
+ 
+Enter your province or territory of residence on December 31, 2010: ^
+ 
+Enter the province or territory where you currently reside if it is not the 
+same as that shown above for your mailing address: ^
+ 
+If you were self-employed in 2010, enter the province or territory of self-
+employment: ^
+ 
+If you became or ceased to be a resident of Canada in 2010, give the date of: 
+entry (Month/Day) ^
+Or departure (Month/Day) ^
+ 
+Information about you 
+ 
+Enter your social insurance number (SIN) if it is not on the label, or if you 
+are not attaching a label: (enter 9-digit number) ^
+ 
+Enter your date of birth: (Year/Month/Day) ^
+ 
+Your language of correspondence: 
+Votre langue de correspondance: 
+English or Français ^
+ 
+Tick the box (enter yes) that applies to your marital status on December 31, 
+2010: (see the "Marital status" section in the guide) 
+ 
+Box 1: Married ^
+Box 2: Living common-law ^
+Box 3: Widowed ^
+Box 4: Divorced ^
+Box 5: Separated ^
+Box 6: Single ^
+ 
+Information about your spouse or common-law partner (if you ticked box 1 or 2 
+above) (see the guide for more information) 
+ 
+Enter his or her SIN if it is not on the label, or if you are not attaching a 
+label: (enter 9-digit number) ^
+ 
+Enter his or her first name: ^
+ 
+Enter his or her net income for 2010 to claim certain credits: ^
+ 
+Enter the amount of Universal Child Care Benefit included on line 117 of his 
+or her return: ^
+ 
+Enter the amount of Universal Child Care Benefit repayment included on line 
+213 of his or her return: ^
+ 
+Tick this box (enter yes) if he or she was self-employed in 2010: 1 ^
+ 
+Person deceased in 2010 
+ 
+If this return is for a deceased person, enter the date of death: 
+(Year/Month/Day) ^
+ 
+Do not use this area 
+ 
+Elections Canada (see the Elections Canada page in the tax guide for details 
+or visit www.elections.ca) 
+ 
+A) Are you a Canadian citizen? 1 Yes or 2 No ^
+ 
+Answer the following question only if you are a Canadian citizen. 
+ 
+B) As a Canadian citizen, do you authorize the Canada Revenue Agency to give 
+your name, address, date of birth, and citizenship to Elections Canada to 
+update the National Register of Electors? 1 Yes or 2 No ^
+ 
+Your authorization is valid until you file your next return. Your information 
+will only be used for purposes permitted under the Canada Elections Act which 
+includes sharing the information with provincial/territorial election 
+agencies, Members of Parliament and registered political parties, as well as 
+candidates at election time. 
+ 
+Goods and services tax/harmonized sales tax (GST/HST) credit application 
+ 
+See the guide for details. 
+ 
+Are you applying for the GST/HST credit? 1 Yes or 2 No ^
+ 
+Do not use this area 
+Box 172 
+Box 171 
+ 
+ 
+5010-R (Page 2 of 4) 
+ 
+The guide contains valuable information to help you complete your return. 
+ 
+When you come to a line on the return that applies to you, look up the line 
+number in the guide for more information. 
+ 
+Please answer the following question: 
+ 
+Box 266: Did you own or hold foreign property at any time in 2010 with a 
+total cost of more than CAN$100,000? (see the "Foreign income" section in the 
+guide for details) 1 Yes 2 No ^
+If yes, attach a completed Form T1135. 
+ 
+If you had dealings with a non-resident trust or corporation in 2010, see the 
+"Foreign income" section in the guide. 
+ 
+As a Canadian resident, you have to report your income from all sources both 
+inside and outside Canada. 
+ 
+Total income 
+ 
+Line 101: Employment income (box 14 on all T4 slips) ^
+ 
+Line 102: Commissions included on line 101 (box 42 on all T4 slips) ^
+ 
+Line 104: Other employment income ^
+ 
+Line 113: Old Age Security pension (box 18 on the T4A(OAS) slip) ^
+ 
+Line 114: CPP or QPP benefits (box 20 on the T4A(P) slip) ^
+ 
+Line 152: Disability benefits included on line 114 (box 16 on the T4A(P) 
+slip) ^
+ 
+Line 115: Other pensions or superannuation ^
+ 
+Line 116: Elected split-pension amount (see the guide and attach Form T1032) 
+^
+ 
+Line 117: Universal Child Care Benefit (UCCB) (see the guide) ^
+ 
+Line 185: UCCB amount designated to a dependant ^
+ 
+Line 119: Employment Insurance and other benefits (box 14 on the T4E slip) ^
+ 
+Line 120: Taxable amount of dividends (eligible and other than eligible) from 
+taxable Canadian corporations (see the guide and attach Schedule 4) ^
+ 
+Line 180: Taxable amount of dividends other than eligible dividends, included 
+on line 120, from taxable Canadian corporations ^
+ 
+Line 121: Interest and other investment income (attach Schedule 4) ^
+ 
+Line 122: Net partnership income: limited or non-active partners only (attach 
+Schedule 4) ^
+ 
+Line 125: Registered disability savings plan income (see the guide) ^
+ 
+Rental income 
+Line 160: Gross ^
+Line 126: Net ^
+ 
+Line 127: Taxable capital gains (attach Schedule 3) ^
+ 
+Support payments received 
+Line 156: Total ^
+Line 128: Taxable amount ^
+ 
+Line 129: RRSP income (from all T4RSP slips) ^
+ 
+130 Other income Specify: ^
+ 
+Self-employment income (see lines 135 to 143 in the guide) 
+ 
+Business income 
+Line 162: Gross ^
+Line 135: Net ^
+ 
+Professional income 
+Line 164: Gross ^
+Line 137: Net ^
+ 
+Commission income 
+Line 166: Gross ^
+Line 139: Net ^
+ 
+Farming income 
+Line 168: Gross ^
+Line 141: Net ^
+ 
+Fishing income 
+Line 170: Gross ^
+Line 143: Net ^
+ 
+Line 144: Workers' compensation benefits (box 10 on the T5007 slip) ^
+ 
+Line 145: Social assistance payments ^
+ 
+Line 146: Net federal supplements (box 21 on the T4A(OAS) slip) ^
+ 
+Line 147: Add lines 144, 145, and 146 (see line 250 in the guide). = ^
+ 
+Line 150: Add lines 101, 104 to 143, and 147. This is your total income. = ^
+ 
+ 
+5010-R (Page 3 of 4) 
+ 
+Attach your Schedule 1 (federal tax) and Form 428 (provincial or territorial 
+tax) here. Also attach here any other schedules, information slips, forms, 
+receipts, and documents that you need to include with your return. 
+ 
+Net income 
+ 
+Line 150: Enter your total income from line 150. ^
+ 
+Line 206: Pension adjustment (box 52 on all T4 slips and box 034 on all T4A 
+slips) ^
+ 
+Line 207: Registered pension plan deduction (box 20 on all T4 slips and box 
+032 on all T4A slips) ^
+ 
+Line 208: RRSP deduction (see Schedule 7, and attach receipts) ^
+ 
+Line 209: Saskatchewan Pension Plan deduction (maximum $600) ^
+ 
+Line 210: Deduction for elected split-pension amount (see the guide, and 
+attach Form T1032) ^
+ 
+Line 212: Annual union, professional, or like dues (box 44 on all T4 slips, 
+and receipts) ^
+ 
+Line 213: Universal Child Care Benefit repayment (box 12 on all RC62 slips) ^
+ 
+Line 214: Child care expenses (attach Form T778) ^
+ 
+Line 215: Disability supports deduction ^
+ 
+Business investment loss 
+Line 228: Gross ^
+Line 217: Allowable deduction ^
+ 
+Line 219: Moving expenses ^
+ 
+Support payments made 
+Line 230: Total ^
+Line 220: Allowable deduction ^
+ 
+Line 221: Carrying charges and interest expenses (attach Schedule 4) ^
+ 
+Line 222: Deduction for CPP or QPP contributions on self-employment and other 
+earnings (attach Schedule 8) ^
+ 
+Line 224: Exploration and development expenses (attach Form T1229) ^
+ 
+Line 229 Other employment expenses ^
+ 
+Line 231: Clergy residence deduction ^
+ 
+Line 232: Other deductions Specify: ^
+ 
+Line 233: Add lines 207 to 224, 229, 231, and 232. = ^
+ 
+Line 234: Line 150 minus line 233 (if negative, enter "0"). This is your net 
+income before adjustments. = ^
+ 
+Line 235: Social benefits repayment (if you reported income on line 113, 119, 
+or 146, see line 235 in the guide). Use the federal worksheet to calculate 
+your repayment. ^
+ 
+Line 236: Line 234 minus line 235 (if negative, enter "0"). If you have a 
+spouse or common-law partner, see line 236 in the guide. This is your net 
+income. = ^
+ 
+Taxable income 
+ 
+Line 244: Canadian Forces personnel and police deduction (box 43 on all T4 
+slips) ^
+ 
+Line 248: Employee home relocation loan deduction (box 37 on all T4 slips) ^
+ 
+Line 249: Security options deductions ^
+ 
+Line 250: Other payments deduction (if you reported income on line 147, see 
+line 250 in the guide) ^
+ 
+Line 251: Limited partnership losses of other years ^
+ 
+Line 252: Non-capital losses of other years ^
+ 
+Line 253: Net capital losses of other years ^
+ 
+Line 254: Capital gains deduction ^
+ 
+Line 255: Northern residents deductions (attach Form T2222) ^
+ 
+Line 256: Additional deductions Specify: ^
+ 
+Line 257: Add lines 244 to 256. = ^
+ 
+Line 260: Line 236 minus line 257 (if negative, enter "0"). This is your 
+taxable income. = ^
+ 
+Use your taxable income to calculate your federal tax on Schedule 1 and your 
+provincial or territorial tax on Form 428. 
+ 
+ 
+5010-R (Page 4 of 4) 
+ 
+Refund or balance owing 
+ 
+Line 420: Net federal tax: enter the amount from line 55 of Schedule 1 
+(attach Schedule 1, even if the result is "0") ^
+ 
+Line 421: CPP contributions payable on self-employment and other earnings 
+(attach Schedule 8) ^
+ 
+Line 430: Employment Insurance premiums payable on self-employment and other 
+eligible earnings (attach Schedule 13) ^
+ 
+Line 422: Social benefits repayment (enter the amount from line 235) ^
+ 
+Line 428 Provincial or territorial tax (attach Form 428, even if the result 
+is "0") ^
+ 
+Line 435: Add lines 420, 421, 430, 422, and 428. This is your total payable. 
+= ^
+ 
+Line 437: Total income tax deducted (see the guide) ^
+ 
+Line 440: Refundable Quebec abatement ^
+ 
+Line 448: CPP overpayment (enter your excess contributions) ^
+ 
+Line 450: Employment Insurance overpayment (enter your excess contributions) 
+^
+ 
+Line 452: Refundable medical expense supplement (use federal worksheet) ^
+ 
+Line 453: Working Income Tax Benefit (WITB) (attach Schedule 6) ^
+ 
+Line 454: Refund of investment tax credit (attach Form T2038(IND)) ^
+ 
+Line 456: Part XII.2 trust tax credit (box 38 on all T3 slips) ^
+ 
+Line 457: Employee and partner GST/HST rebate (attach Form GST370) ^
+ 
+Line 476: Tax paid by instalments ^
+ 
+Line 479: Provincial or territorial credits (attach Form 479 if it applies) ^
+ 
+Line 482: Add lines 437 to 479. These are your total credits. = ^
+ 
+Line 435 minus line 482 This is your refund or balance owing. = ^
+ 
+If the result is negative, you have a refund. If the result is positive, you 
+have a balance owing. 
+Enter the amount below on whichever line applies. 
+Generally, we do not charge or refund a difference of $2 or less. 
+ 
+Line 484: Refund ^
+Line 485: Balance owing (see line 485 in the guide) ^
+Line 486: Amount enclosed ^
+ 
+Attach to page 1 a cheque or money order payable to the Receiver General, or 
+make your payment online (go to www.cra.gc.ca/mypayment). Your payment is due 
+no later than April 30, 2011. 
+ 
+Direct deposit - Start or change (see line 484 in the guide) 
+ 
+You do not have to complete this area every year. Do not complete it this 
+year if your direct deposit information has not changed. Income tax refund, 
+GST/HST credit, WITB advance payments, and any other deemed overpayment of 
+tax - To start direct deposit or to change account information, complete 
+lines 460, 461, and 462 below. 
+ 
+Notes: To deposit your CCTB payments (including certain related provincial or 
+territorial payments) into the same account, also tick box 463. To deposit 
+your UCCB payments into the same account, also tick box 491. 
+ 
+Line 460: Branch number (5 digits) ^
+Line 461: Institution number (3 digits) ^
+Line 462: Account number (maximum 12 digits) ^
+Box 463: Canada Child Tax Benefit (CCTB) ^
+Box 491: Universal Child Care Benefit (UCCB) ^
+ 
+I certify that the information given on this return and in any documents 
+attached is correct, complete, and fully discloses all my income. 
+ 
+Sign here (It is a serious offence to make a false return.) ^
+ 
+Telephone (including area code): ^
+Date (Year/Month/Day): ^
+ 
+Line 490: For professional tax preparers only 
+Name: ^
+Address: ^
+Telephone (including area code): ^
+ 
+Do not use this area 
+Box 487 
+Box 488 
+ 
+Privacy Act, Personal Information Bank number CRA PPU 005

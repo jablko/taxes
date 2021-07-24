@@ -1,0 +1,98 @@
+﻿5000-S13 
+ 
+Protected B when completed 
+ 
+T1-2018 
+ 
+Schedule 13 
+ 
+Employment Insurance Premiums on Self-Employment and Other Eligible Earnings 
+ 
+Complete this schedule and attach it to your return to calculate the amount 
+of your employment insurance (EI) premiums on self-employment and other 
+eligible earnings only if you have entered into an agreement with the Canada 
+Employment Insurance Commission through Service Canada to participate in the 
+EI program for access to EI special benefits. For more information, contact 
+Service Canada or visit servicecanada.gc.ca. 
+ 
+Net self-employment income 
+ 
+Line 1: Enter the total amounts from line 122 and lines 135 to 143 of your 
+return. If you have self-employment income for which you received a T4 slip, 
+with EI premiums shown in box 18, do not include any net income (or net loss) 
+you reported on lines 135 to 143 from that T4 slip (see note(a) below). (if 
+negative, enter "0") ^
+ 
+(a) This may be the case if you are in one of the following situations: 
+ 
+- you are a barber, a hairdresser, a taxi driver, or a driver of another 
+passenger-carrying vehicle and you are not hired as an employee 
+ 
+- you received income through a placement agency and you are not hired as an 
+employee 
+ 
+- you are a self-employed fisher 
+ 
+Line 2 and line 5493: If you are employed by a corporation but not eligible 
+to participate in the EI program as an employee because you control more than 
+40% of the voting shares of that corporation, enter the amount from box 14 of 
+all your T4 slips from that corporation unless note(b) below applies. ^
+ 
+(b) Box 14 of your T4 slip may include certain amounts that are not insurable 
+earnings, such as: 
+ 
+- non-cash benefits (other than the value of board and lodging) 
+ 
+- contributions made by your employer to your employee group RRSP where 
+access to the funds is restricted 
+ 
+- certain amounts paid by your employer to you to cover the waiting period or 
+to increase the maternity, parental, or compassionate care benefits 
+ 
+- top-up amounts paid by your employer to you in addition to worker's 
+compensation benefits 
+ 
+If you received any of these amounts, visit canada.ca/revenue-agency or 
+contact the CRA to determine the amount to exclude from line 2. 
+ 
+Line 3 and line 5494: If you are a registered Indian, or person entitled to 
+be registered under the Indian Act, and you earned tax-exempt, self-
+employment income on a reserve in Canada, enter your total tax-exempt self-
+employment income. ^
+ 
+Line 4: Add lines 1, 2, and 3. = ^
+ 
+You do not have to pay any premiums on your self-employment and other 
+eligible earnings, if the total of your EI premiums: 
+ 
+- from box 18 and box 55 of all your T4 slips is $858.22 or more (for 
+residents of a province or a territory other than Quebec) 
+ 
+- from box 18 of all your T4 slips is $672.10 or more (for residents of 
+Quebec) 
+ 
+If either of these conditions apply to you, enter "0" on line 9 and attach a 
+copy of this schedule to your return. 
+ 
+Line 5: Maximum insurable earnings 51,700.00 
+ 
+Total EI insurable earnings 
+ 
+Line 6 and line 5478: Enter the total amount from box 24 of all your T4 
+slips. If box 24 is blank, use the amount from box 14, unless box 28 shows 
+that the T4 earnings are EI-exempt. If you have employment income for which 
+you did not get a T4 slip, also enter that amount. ^
+ 
+Line 7: Line 5 minus line 6 (if negative, enter "0") = ^
+ 
+Line 8: Enter the amount from line 4 or line 7, whichever is less. ^
+ 
+Line 9: EI premiums payable on self-employment and other eligible earnings 
+Residents of a province or a territory other than Quebec (multiply line 8 by 
+1.66%) (maximum $858.22) 
+Residents of Quebec (multiply line 8 by 1.3%) (maximum $672.10) = ^
+ 
+Enter the amount from line 9 on line 317 of your Schedule 1 and on line 430 
+of your return. 
+ 
+See the privacy notice on your return.

@@ -1,0 +1,10 @@
+name: Dependabot auto-merge
+on: pull_request_target
+permissions:
+jobs:
+  dependabot:
+    steps:
+      - name: Fetch Metadata from Dependabot PRs
+        uses: dependabot/fetch-metadata@v1.1.1
+      - name: Enable auto-merge for Dependabot PRs
+        run: gh pr merge --auto

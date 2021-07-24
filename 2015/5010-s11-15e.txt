@@ -1,0 +1,107 @@
+﻿5010-S11 
+ 
+Protected B when completed 
+ 
+T1 General - 2015 
+ 
+Schedule BC(S11) 
+ 
+Provincial Tuition and Education Amounts 
+ 
+Only the student must complete this schedule. Use it to: 
+ 
+- calculate your British Columbia tuition and education amounts to claim on 
+line 5856 of your Form BC428; 
+ 
+- determine the provincial amount available to transfer to a designated 
+individual; and 
+ 
+- determine the unused provincial amount, if any, available for you to carry 
+forward to a future year. 
+ 
+Only the student attaches a copy of this schedule to his or her return. 
+ 
+British Columbia tuition and education amounts claimed by the student for 
+2015 
+ 
+Line 1: Unused British Columbia tuition and education amounts from your 2014 
+notice of assessment or notice of reassessment* ^
+ 
+* If you resided in another province or territory on December 31, 2014, enter 
+on line 1 your unused federal tuition, education, and textbook amounts from 
+your 2014 notice of assessment or notice of reassessment. 
+ 
+Line 2 and line 5914: Eligible tuition fees paid for 2015 ^
+ 
+Education amount for 2015: Use columns B and C of forms T2202A, TL11A, TL11B, 
+and TL11C. Only one claim per month (maximum 12 months) 
+ 
+Line 3 and line 5916: Enter the number of months from column B (do not 
+include any month that is also included in column C). ^
+multiplied by $60 = ^
+ 
+Line 4 and line 5918: Enter the number of months from column C. ^
+multiplied by $200 = ^
+ 
+Line 5: Add lines 2, 3, and 4. Total 2015 tuition and education amounts = ^
+ 
+Line 6: Add lines 1 and 5. Total available tuition and education amounts = ^
+ 
+Line 7: Enter the amount of your taxable income from line 260 of your return 
+if it is $37,869 or less. If your taxable income is more than $37,869, enter 
+instead the result of the following calculation: amount from line 43 of your 
+Form BC428 divided by 5.06%. ^
+ 
+Line 8: Total of lines 5804 to 5848 of your Form BC428 ^
+ 
+Line 9: Line 7 minus line 8 (if negative, enter "0") = ^
+ 
+Line 10: Unused British Columbia tuition and education amounts claimed for 
+2015: Enter the amount from line 1 or line 9, whichever is less. ^
+ 
+Line 11: Line 9 minus line 10 = ^
+ 
+Line 12: 2015 tuition and education amounts claimed for 2015: 
+Enter the amount from line 5 or line 11, whichever is less. ^
+ 
+Line 13: Add lines 10 and 12. Enter this amount on line 5856 of your Form 
+BC428. British Columbia tuition and education amounts claimed by the student 
+for 2015 = ^
+ 
+Transfer/Carryforward of unused amount 
+ 
+Line 14: Amount from line 6 ^
+ 
+Line 15: Amount from line 13 ^
+ 
+Line 16: Line 14 minus line 15 Total unused amount = ^
+ 
+If you are transferring an amount to another individual, continue on line 17. 
+Otherwise, enter the amount from line 16 on line 21. 
+ 
+Line 17: Enter the amount from line 5. (maximum $5,000) ^
+ 
+Line 18: Amount from line 12 ^
+ 
+Line 19: Line 17 minus line 18 (if negative, enter "0") Maximum transferable 
+= ^
+ 
+You can transfer all or part of the amount on line 19 to your spouse or 
+common-law partner, to his or her parent or grandparent, or to your parent or 
+grandparent. To do this, you have to designate the individual and specify the 
+provincial amount that you are transferring to him or her on your Form 
+T2202A, TL11A, TL11B, or TL11C. Enter the amount on line 20 below. 
+ 
+Note: If you have a spouse or common-law partner, special rules may apply; 
+read line 5856 in the forms book. 
+ 
+Line 20 and line 5920: Enter the amount you are transferring (cannot be more 
+than line 19). Provincial amount transferred ^
+ 
+Line 21: Line 16 minus line 20 Unused provincial amount available to carry 
+forward to a future year = ^
+ 
+The person claiming the transfer should not attach this schedule to his or 
+her return. 
+ 
+See the privacy notice on your return.

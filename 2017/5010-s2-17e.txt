@@ -1,0 +1,64 @@
+﻿5010-S2 
+ 
+Protected B when completed 
+ 
+T1 General - 2017 
+ 
+Schedule BC(S2) 
+ 
+Provincial Amounts Transferred From Your Spouse or Common-Law Partner 
+ 
+Complete this schedule to claim a transfer of the unused part of your 
+spouse's or common-law partner's provincial amounts shown below. Attach a 
+copy of this schedule to your return. 
+ 
+If your spouse or common-law partner is filing a return, use the amounts that 
+he or she entered on Form BC428. 
+ 
+If your spouse or common-law partner is not filing a return, use the amounts 
+that he or she would enter on Form BC428 if he or she were filing a return. 
+Attach his or her information slips, but do not attach the return and 
+schedules. 
+ 
+If at the end of the year your spouse or common-law partner was not a 
+resident of British Columbia, special rules may apply. For more information, 
+contact the Canada Revenue Agency. 
+ 
+Age amount (if your spouse or common-law partner was 65 years of age or older 
+in 2017): 
+Line 1 and line 5902: If his or her net income is $34,075 or less, enter 
+$4,578. Otherwise, enter the amount from line 5808 of his or her Form BC428. 
+^
+ 
+Pension income amount: 
+Line 2 and line 5905: Enter the amount from line 5836 of his or her Form 
+BC428. (maximum $1,000) ^
+ 
+Disability amount: 
+Line 3 and line 5907: Enter the amount from line 5844 of his or her Form 
+BC428. ^
+ 
+Line 4 and line 5909: Tuition and education amounts: Enter the provincial 
+amount designated to you as shown on his or her Form T2202A, TL11A, TL11B, or 
+TL11C. ^
+ 
+Line 5: Add lines 1 to 4. = ^
+ 
+Spouse's or common-law partner's taxable income: 
+Line 6: Enter the amount from line 260 of his or her return if it is $38,898 
+or less. If the taxable income is more than $38,898, enter instead the result 
+of the following calculation: amount from line 47 of his or her Form BC428 
+divided by 5.06%. ^
+ 
+Line 7: Enter the total of lines 5804, 5824, 5828, 5832, 5829, 5830, 5845, 
+5833, 5838, 5842, 5841, 5846 and 5843 of his or her Form BC428 plus line 13 
+of his or her Schedule BC(S11). ^
+ 
+His or her adjusted taxable income: 
+Line 8 and line 5912: Line 6 minus line 7 (if negative, enter "0") = ^
+ 
+Line 9: Line 5 minus line 8 (if negative, enter "0") Provincial amounts 
+transferred from your spouse or common-law partner = ^
+Enter this amount on line 5864 of your Form BC428. 
+ 
+See the privacy notice on your return.

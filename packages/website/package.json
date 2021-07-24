@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "gatsby": "^3.10.2",
+    "gatsby-plugin-mdx": "^2.10.1"
+  }
+}

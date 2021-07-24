@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "rehype --output --use @taxes/rehype-remark 20*/*.html && prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2",
+    "rehype-cli": "^10.0.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

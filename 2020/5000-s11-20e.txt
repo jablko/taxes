@@ -1,0 +1,154 @@
+﻿5000-S11 (Front) 
+ 
+Protected B when completed 
+ 
+T1-2020 
+ 
+Schedule 11 
+ 
+Federal Tuition, Education, and Textbook Amounts and Canada Training Credit 
+ 
+Only the student completes this schedule and attaches it to their return. If 
+the student is transferring an unused amount from this year, the designated 
+individual should not attach this schedule to their return. 
+ 
+In addition to your tuition, education, and textbook amounts and your Canada 
+training credit, this schedule will help you calculate the tuition amount you 
+can transfer to a designated individual and the unused amount, if any, you 
+can carry forward to a future year. 
+ 
+Use your completed designated forms (T2202, TL11A, and/or TL11C) or other 
+official tuition tax receipts to complete this schedule. To qualify for an 
+amount on line 32000 and/or line 32001, the fees you paid to attend each 
+institution must be more than $100. 
+ 
+For more information, see Guide P105, Students and Income Tax. 
+ 
+Tuition, education, and textbook amounts claimed by the student for 2020 
+ 
+Line 1: Unused federal tuition, education, and textbook amounts from your 
+2019 notice of assessment or reassessment ^
+ 
+Line 2 and line 32000: Eligible tuition fees paid to Canadian educational 
+institutions for 2020 ^
+ 
+If you choose to claim the Canada Training Credit, continue on line 3. 
+Otherwise, enter the amount from line 2 on line 6, and continue on line 7. 
+ 
+Canada training credit 
+ 
+Line 3: Amount from line 2 ^
+multiplied by 50% = ^
+ 
+Line 4: Your Canada training credit limit for 2020 (from your latest notice 
+of assessment or reassessment for 2019) ^
+ 
+Canada training credit for 2020 
+ 
+Line 5: Enter an amount up to the lesser of the amounts at line 3 or line 4. 
+Enter this amount on line 45350 of your return. ^
+ 
+Line 6: Line 2 minus line 5 Available Canadian tuition amount for 2020 = ^
+ 
+Line 7 and line 32001: Eligible tuition fees paid to foreign educational 
+institutions for 2020 ^
+ 
+Line 8: Line 6 plus line 7 = ^
+ 
+Line 9: Line 1 plus line 8 Total available tuition, education, and textbook 
+amounts for 2020 = ^
+ 
+Line 10: Enter the amount of your taxable income from line 26000 of your 
+return on line 10 if it is $48,535 or less. Otherwise, enter the result of 
+the following calculation: amount from line 70 of your return ^
+divided by 15% = ^
+ 
+Line 11: Total of lines 79 to 93 of your return ^
+ 
+Line 12: Line 10 minus line 11 (if negative, enter "0") = ^
+ 
+Line 13: Unused tuition, education, and textbook amounts claimed for 2020 
+Amount from line 1 or line 12, whichever is less ^
+ 
+Line 14: Line 12 minus line 13 = ^
+ 
+Line 15: 2020 tuition amount you are claiming for 2020 Enter the amount from 
+line 8 or line 14, whichever is less. ^
+ 
+Line 16: Line 13 plus line 15. Enter this amount on line 32300 of your 
+return. Total tuition, education, and textbook amounts claimed by the student 
+for 2020 = ^
+ 
+Continue on the next page. 
+ 
+ 
+5000-S11 (Back) 
+ 
+2020 enrolment information 
+ 
+The CRA needs the following information to administer federal programs such 
+as the Canada workers benefit, scholarship exemption, lifelong learning plan, 
+and various provincial and territorial programs. 
+ 
+Box 32005: Tick this box if you were eligible for the disability tax credit 
+or you had, in the year, a mental or physical impairment and a doctor has 
+certified that you cannot reasonably be expected to be enrolled as a full-
+time student because of the effects of your impairment. ^
+ 
+Box 32010: Enter the number of months you were enrolled as a part-time 
+student from box 24 of Form T2202, and column B of forms TL11A and TL11C. 
+(maximum 12) ^
+ 
+Box 32020: Enter the number of months you were enrolled as a full-time 
+student from box 25 of Form T2202, and column C of forms TL11A and TL11C. 
+(maximum 12) ^
+ 
+Transfer or carryforward of unused amount 
+ 
+Complete this section if you are transferring a current-year amount or if you 
+have an unused amount to carry forward to future years. 
+ 
+Line 17: Amount from line 9 of the previous page ^
+ 
+Line 18: Amount from line 16 of the previous page ^
+ 
+Line 19: Line 17 minus line 18 Total unused amount = ^
+ 
+If you are transferring an amount to a designated individual, continue on 
+line 20. Otherwise, enter the amount from line 19 on line 24. 
+ 
+Line 20: Amount from line 8 of the previous page (maximum $5,000) ^
+ 
+Line 21: Amount from line 15 of the previous page ^
+ 
+Line 22: Line 20 minus line 21 (if negative, enter "0") Maximum transferable 
+= ^
+ 
+You can transfer all or part of the amount on line 22 to your spouse or 
+common-law partner, to their parent or grandparent, or to your parent or 
+grandparent. To do this, you have to designate the individual and specify the 
+federal amount that you are transferring to them on your Form T2202, TL11A, 
+or TL11C. Enter the amount on line 23 below. 
+ 
+Note: 
+If your spouse or common-law partner is claiming an amount for you on line 
+30300 or line 32600 of their return, you cannot transfer an amount to your 
+parent or grandparent or to your spouse's or common-law partner's parent or 
+grandparent. 
+ 
+Line 23 and line 32700: Enter the amount you are transferring (cannot be more 
+than line 22). Federal tuition amount transferred ^
+ 
+Line 24: Line 19 minus line 23 Unused federal amount available to carry 
+forward to a future year = ^
+ 
+Complete the provincial or territorial Schedule (S11) to calculate your 
+provincial or territorial amounts. 
+ 
+See the privacy notice on your return.
+
+ 
+
+
+
+

@@ -1,0 +1,113 @@
+﻿5000-S11 
+ 
+Protected B when completed 
+ 
+T1-2017 
+ 
+Schedule 11 
+ 
+Tuition, Education, and Textbook Amounts 
+ 
+For more information, see line 323 in the guide. 
+ 
+Only the student must complete this schedule and attach it to his or her 
+return. Use your official tuition tax receipt or completed form T2202A, 
+TL11A, TL11B, and/or TL11C slips to complete this schedule to: 
+ 
+- determine your federal tuition, education, and textbook amounts; 
+ 
+- determine the federal tuition amount available to transfer to a designated 
+individual; and 
+ 
+- determine the unused federal amount, if any, available for you to carry 
+forward to a future year. 
+ 
+Tuition, education, and textbook amounts claimed by the student for 2017 
+ 
+Line 1: Unused federal tuition, education, and textbook amount from your 2016 
+notice of assessment or notice of reassessment ^
+ 
+Line 2 and line 320: Eligible tuition fees paid for 2017, from your tuition 
+tax receipt or designated form as noted above. If you paid $100 or less in 
+tuition to an institution, see line 323 in the guide. 
+ 
+Line 3: Add line 1 and 2. Total available tuition, education, and textbook 
+amounts for 2017. = ^
+ 
+Line 4: Enter the amount of your taxable income from line 260 of your return 
+if it is $45,916 or less. If your taxable income is more than $45,916, enter 
+instead the result of the following calculation: amount from line 44 of your 
+Schedule 1 divided by 15%. ^
+ 
+Line 5: Total of lines 1 to 21 of your Schedule 1 ^
+ 
+Line 6: Line 4 minus line 5 (if negative, enter "0"). = ^
+ 
+Line 7: Unused tuition, education, and textbook amounts claimed for 2017 
+Amount from line 1 or line 6, whichever is less. ^
+ 
+Line 8: Line 6 minus line 7. = ^
+ 
+Line 9: 2017 tuition amount claimed for 2017. Enter the amount from line 2 or 
+line 8, whichever is less. ^
+ 
+Line 10: Add line 7 and 9. Total tuition, education, and textbook amounts 
+claimed by the student for 2017. = ^
+Enter this amount on line 323 of Schedule 1. 
+ 
+2017 enrolment information 
+ 
+The following additional information is required for the administration of 
+federal programs such as the working income tax benefit, scholarship 
+exemption, life long learning plan, and various provincial/territorial 
+programs. 
+ 
+Box 345: Tick this box (enter yes) if you were eligible for the disability 
+tax credit or you had, in the year, a mental or physical impairment and a 
+doctor has certified that the effects of the impairment are such that you 
+cannot reasonably be expected to be enrolled as a full-time student. ^
+ 
+Box 325: Enter the number of months you were enrolled as a part-time student, 
+column B of forms T2202A, TL11A, TL11B, and TL11C. (maximum 12) ^ 
+ 
+Box 328: Enter the number of months you were enrolled as a full-time student, 
+column C of forms T2202A, TL11A, TL11B, and TL11C. (maximum 12) ^
+ 
+Transfer of carryforward of unused amount 
+ 
+Line 11: Amount from line 3 ^
+Line 12: Amount from line 10 ^
+Line 13: Line 11 minus line 12 Total unused amount = ^
+ 
+If you are transferring an amount to another individual, continue on line 14. 
+Otherwise, enter the amount from line 13 on line 18. 
+ 
+Line 14: Enter the amount from line 2. (maximum $5,000) ^
+ 
+Line 15: Amount from line 9 ^
+ 
+Line 16: Line 14 minus line 15 (if negative, enter "0") Maximum transferable 
+= ^
+ 
+You can transfer all or part of the amount on line 16 to your spouse or 
+common-law partner, to his or her parent or grandparent, or to your parent or 
+grandparent. To do this, you have to designate the individual and specify the 
+federal amount that you are transferring to him or her on your Form T2202A, 
+TL11A, TL11B, or TL11C. Enter the amount on line 17 below. 
+ 
+Note: 
+If your spouse or common-law partner is claiming an amount for you on line 
+303 or line 326 of his or her Schedule 1, you cannot transfer an amount to 
+your parent or grandparent or to your spouse's or common-law partner's parent 
+or grandparent. 
+ 
+Line 17 and line 327: Enter the amount you are transferring (cannot be more 
+than line 16). Federal tuition amount transferred ^
+ 
+Line 18: Line 13 minus line 17 Unused federal amount available to carry 
+forward to a future year = ^
+ 
+The person claiming the transfer should not attach this schedule to his or 
+her return. 
+ 
+See the privacy notice on your return.

@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "noUncheckedIndexedAccess": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "target": "es2019"
+  }
+}

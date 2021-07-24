@@ -1,0 +1,213 @@
+﻿5000-S3 (Front) 
+ 
+Protected B when completed 
+ 
+T1-2017 
+ 
+Schedule 3 
+ 
+Capital Gains (or Losses) in 2017 
+ 
+For more information, see line 127 in the General Income Tax and Benefit 
+Guide, and Guide T4037, Capital Gains. 
+ 
+Attach a separate sheet of paper if you need more space. Attach a copy of 
+this schedule to your return. 
+ 
+*** Transcriber's Note: For sections 1 to 8 enter as many lines as necessary. 
+The print version is reproduced with one or two narrative columns followed by 
+numbered columns 1 to 5. *** 
+ 
+Note: 
+If you have a business investment loss, see line 217 in the guide. 
+ 
+1. Qualified small business corporation shares (Report, in 3 below, publicly 
+traded shares, mutual fund units, deferral of eligible small business 
+corporation shares, and other shares.) 
+ 
+Number ^
+Name of corporation and class of shares ^
+(Column 1): Year of acquisition ^
+(Column 2): Proceeds of disposition ^
+(Column 3): Adjusted cost base ^
+(Column 4): Outlays and expenses (from dispositions) ^
+(Column 5): Gain (or loss) (column 2 minus columns 3 and 4) ^
+Line 106: Total (add all the amounts under column 2) ^
+Line 107: Gain (or loss) (add all the amounts under column 5) ^
+ 
+2. Qualified farm or fishing property 
+ 
+Address or legal description ^
+Province/Territory. ^
+(Column 1): Year of acquisition ^
+(Column 2): Proceeds of disposition ^
+(Column 3): Adjusted cost base ^
+(Column 4): Outlays and expenses (from dispositions) ^
+(Column 5): Gain (or loss) (column 2 minus columns 3 and 4) ^
+Line 109: Total (add all the amounts under column 2) ^
+Line 110: Gain (or loss) (add all the amounts under column 5) ^
+ 
+Mortgage foreclosures and conditional sales repossessions - Address or legal 
+description ^
+Province/Territory ^
+(Column 1): Year of acquisition ^
+(Column 2): Proceeds of disposition ^
+(Column 3): Adjusted cost base ^
+(Column 4): Outlays and expenses (from dispositions) ^
+(Column 5): Gain (or loss) (column 2 minus columns 3 and 4) ^
+Line 123: Total (add all the amounts under column 2) ^
+Line 124: Gain (or loss) (add all the amounts under column 5) ^
+ 
+3. Publicly traded shares, mutual fund units, deferral of eligible small 
+business corporation shares, and other shares 
+(Report capital gains (or losses) shown on T5, T5013, T4PS, and T3 
+information slips on line 174 or line 176.) 
+ 
+Number ^
+Name of fund/corporation and class of shares ^
+(Column 1): Year of acquisition ^
+(Column 2): Proceeds of disposition ^
+(Column 3): Adjusted cost base ^
+(Column 4): Outlays and expenses (from dispositions) ^
+(Column 5): Gain (or loss) (column 2 minus columns 3 and 4) ^
+Line 131: Total (add all the amounts under column 2) ^
+Line 132: Gain (or loss) (add all the amounts under column 5) ^
+ 
+4. Real estate, depreciable property, and other properties (see the next page 
+for a principal residence) 
+ 
+Address or legal description ^
+Province/Territory ^
+(Column 1): Year of acquisition ^
+(Column 2): Proceeds of disposition ^
+(Column 3): Adjusted cost base ^
+(Column 4): Outlays and expenses (from dispositions) ^
+(Column 5): Gain (or loss) (column 2 minus columns 3 and 4) ^
+Line 136: Total (add all the amounts under column 2) ^
+Line 138: Gain (or loss) (add all the amounts under column 5) ^
+ 
+5. Bonds, debentures, promissory notes, and other similar properties 
+ 
+Face value ^
+Maturity date ^
+Name of issuer ^
+(Column 1): Year of acquisition ^
+(Column 2): Proceeds of disposition ^
+(Column 3): Adjusted cost base ^
+(Column 4): Outlays and expenses (from dispositions) ^
+(Column 5): Gain (or loss) (column 2 minus columns 3 and 4) ^
+Line 151: Total (add all the amounts under column 2) ^
+Line 153: Gain (or loss) (add all the amounts under column 5) ^
+ 
+6. Other mortgage foreclosures and conditional sales repossessions 
+ 
+Address or legal description ^
+Province/Territory ^
+(Column 1): Year of acquisition ^
+(Column 2): Proceeds of disposition ^
+(Column 3): Adjusted cost base ^
+(Column 4): Outlays and expenses (from dispositions) ^
+(Column 5): Gain (or loss) (column 2 minus columns 3 and 4) ^
+Line 154: Total (add all the amounts under column 2) ^
+Line 155: Gain (or loss) (add all the amounts under column 5) ^
+ 
+7. Personal-use property (provide a full description) (see the next page for 
+a principal residence) 
+ 
+(Column 1): Year of acquisition ^
+(Column 2): Proceeds of disposition ^
+(Column 3): Adjusted cost base ^
+(Column 4): Outlays and expenses (from dispositions) ^
+(Column 5): Gain (or loss) (column 2 minus columns 3 and 4) ^
+Line 158: Gain only (add all the amounts under column 5) ^
+ 
+8. Listed personal property (LPP) (full description) 
+ 
+(Column 1): Year of acquisition ^
+(Column 2): Proceeds of disposition ^
+(Column 3): Adjusted cost base ^
+(Column 4): Outlays and expenses (from dispositions) ^
+(Column 5): Gain (or loss) (column 2 minus columns 3 and 4) ^
+Subtract: unapplied LPP losses from other years ^
+Line 159: Net gain only ^
+ 
+Note: 
+You can apply only LPP losses against LPP gains. 
+ 
+Line A: Add lines 107, 110, 124, 132, 138, 153, 155, 158 and 159. Total of 
+gains (or losses) of qualified properties and other properties = ^
+Enter this amount on line B on the next page. 
+ 
+ 
+5000-S3 (Back) 
+ 
+Line B: Enter the amount from line A on the previous page. ^
+ 
+Line C and line 161: Capital gains deferral from qualifying dispositions of 
+eligible small business corporation shares (included in number 3 on the 
+previous page) ^
+ 
+Line D: Line B minus line C = ^
+ 
+Line E and line 173: Farming and fishing income eligible for the capital 
+gains deduction from the disposition of eligible capital property (for 
+details, see Form T657) ^
+ 
+Line F and line 174: T5, T5013, and T4PS information slips - Capital gains 
+(or losses) ^
+ 
+Line G and line 176: T3 information slips - Capital gains (or losses) ^
+ 
+Line H: Add lines D, F, and G. = ^
+ 
+Line I and line 178: Capital loss from a reduction in your business 
+investment loss ^
+ 
+Line J and line 191: Total of all gains (or losses) before reserves: line H 
+minus line I = ^
+ 
+Line K and line 192: Reserves from line 6706 of Form T2017 (if negative, show 
+it in brackets and subtract it) ^
+ 
+Line L and line 197: Total capital gains (or losses): line J plus line K = ^
+ 
+Line 199: Multiply the amount on line 197 by 50%. Taxable capital gains (or 
+net capital loss) in 2017 = ^
+Enter the taxable capital gains on line 127 of your return. 
+If it is a net capital loss, see line 127 in the guide. 
+
+ 
+Principal residence 
+ 
+Complete this section if you disposed of a property (or properties) in 2017 
+for which you are claiming a principal residence exemption. 
+ 
+In all cases you are required to complete Form T2091 (IND), Designation of a 
+property as a principal residence by an individual, or Form T1255, 
+Designation of a Property as a Principal Residence by the Legal 
+Representative of a Deceased Individual, whichever applies 
+ 
+Even if you do not sell your property you may have a deemed disposition that 
+must be reported. For more information, see line 127 in the guide. 
+ 
+If you were not a resident of Canada for the entire time you owned the 
+designated property, your period of non-residence may reduce the amount of 
+the principal residence exemption or eliminate it. For more information, 
+contact us. 
+ 
+Principal residence designation 
+ 
+Tick the box that applies to your designation. 
+ 
+Box 179 and box 1: I designate the property described on Form T2091 (IND) or 
+Form T1255 to have been my principal residence for all years owned or for all 
+years owned except one year, being a year in which I replaced my principal 
+residence. ^
+ 
+Box 179 and box 2: I designate the property described on Form T2091 (IND) or 
+Form T1255 to have been my principal residence for some, but not all, years 
+owned. ^
+ 
+Box 179 and box 3: I designate the properties described on Form T2091 (IND) 
+or Form T1255 to have been my principal residences for some or all of the 
+years owned. ^

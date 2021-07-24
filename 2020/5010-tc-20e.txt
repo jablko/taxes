@@ -1,0 +1,141 @@
+﻿5010-TC (Font) 
+ 
+Protected B when completed 
+ 
+2020 
+ 
+Form BC479 
+ 
+British Columbia Credits 
+ 
+Complete the calculations that apply to you and attach a copy of this form to 
+your return. 
+ 
+For more information about these credits, see the British Columbia 
+Information Guide in your tax package. 
+ 
+Sales tax credit 
+ 
+Note: 
+If you had a spouse or common-law partner on December 31, 2020, only one of 
+you can claim this credit for both of you. 
+ 
+Adjusted net family income calculation for the sales tax credit 
+ 
+*** Transcriber's Note: In print, the following table is set-up as 2 columns. 
+Use column 1 for You. Use column 2 for Your spouse or common-law partner. *** 
+ 
+Line 1: Enter the net income amount from line 23600 of the return. 
+Column 1: You ^
+Column 2: Your spouse or common-law partner ^
+ 
+Line 2: Total of the universal child care benefit (UCCB) repayment (line 
+21300 of the return) and the registered disability savings plan (RDSP) income 
+repayment (included on line 23200) 
+Column 1: You ^
+Column 2: Your spouse or common-law partner ^
+ 
+Line 3: Lines 1 plus line 2. 
+Column 1: You = ^
+Column 2: Your spouse or common-law partner = ^
+ 
+Line 4: Total of the UCCB income (line 11700 of the return) and the RDSP 
+income (line 12500 of the return) 
+Column 1: You ^
+Column 2: Your spouse or common-law partner ^
+ 
+Line 5: Line 3 minus line 4 (if negative, enter "0") 
+Column 1: You = ^
+Column 2: Your spouse or common-law partner = ^
+ 
+Line 6: Add the amounts from line 5 in column 1 and column 2. Adjusted net 
+family income ^
+ 
+Line 7: If you had a spouse or common-law partner on December 31, 2020, enter 
+$18,000. If not, enter $15,000. ^
+ 
+Line 8: Line 6 minus line 7 (if negative, enter "0") Income for the sales tax 
+credit = ^
+ 
+Line 9 and line 60330: Basic sales tax credit Claim $75 ^
+ 
+Line 10 and line 60350: Additional credit for your spouse or common-law 
+partner Claim $75 ^
+ 
+Line 11: Line 9 plus line 10 = ^
+ 
+Line 12: Amount from line 8 ^
+multiplied by 2% = ^
+ 
+Line 13: Line 11 minus line 12 (if negative, enter "0") Sales tax credit = ^
+ 
+British Columbia home renovation tax credit for seniors and persons with 
+disabilities 
+ 
+Line 60890: If, on December 31, 2020, you and your spouse or common-law 
+partner occupied separate principal residences for medical reasons, you both 
+claim the home renovation tax credit for seniors and persons with 
+disabilities and tick this box. ^
+ 
+Line 14: Enter your home renovation expenses from line 5 of your Schedule 
+BC(S12). (maximum $10,000) Line 60480 ^
+multiplied by 10% = ^
+ 
+Line 15: Line 13 plus line 14 = ^
+ 
+Continue on the next page. 
+ 
+ 
+5010-TC (Back) 
+ 
+Line 16: Enter the amount from line 15 of the previous page. ^
+ 
+British Columbia venture capital tax credit 
+ 
+Line 17: Enter your unused venture capital tax credit from your most recent 
+notice of assessment or reassessment. ^
+ 
+Line 18 and line 60490: Enter the following information from your Certificate 
+SBVC 10 for shares acquired in 2020: (Note 1) Line 60491: Certificate number 
+(enter 9 digits) ^
+Tax credit amount ^
+ 
+Line 19 and line 60495: Enter the following information from your Certificate 
+SBVC 10 for shares acquired in the first 60 days of 2021 that you elect to 
+claim in 2020: (Note 1) Line 60496: Certificate number (enter 9 digits) ^
+Tax credit amount ^
+ 
+Line 20: Add lines 17 to 19. (maximum $120,000) = ^
+ 
+British Columbia mining exploration tax credit 
+ 
+Line 21 and line 60510: Enter the amount from line 23 of your Form T88. ^
+ 
+Line 22 and line 60530: Enter the amount from line 22 of your Form T88. ^
+ 
+British Columbia training tax credit 
+ 
+Line 23 and line 60550: Training tax credit (individuals) (complete Form 
+T1014) ^
+ 
+Line 24 and line 60560: Training tax credit (employers) (complete Form T1014-
+1) ^
+ 
+Line 25 and line 60570: Shipbuilding and ship repair industry tax credit 
+(employers) (complete Form T1014-2) ^
+ 
+Line 26: Add lines 23 to 25. = ^
+ 
+Line 27: Add lines 16, 20, 21, and 26. Enter this amount on line 47900 of 
+your return. British Columbia credits = ^
+ 
+(1) If you made more than one purchase, enter the certificate number for the 
+first acquisition in this period. 
+ 
+See the privacy notice on your return.
+
+ 
+
+
+
+

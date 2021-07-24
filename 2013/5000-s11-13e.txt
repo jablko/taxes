@@ -1,0 +1,122 @@
+﻿5000-S11 
+ 
+Protected B when completed 
+ 
+T1-2013 
+ 
+Schedule 11 
+ 
+Tuition, Education, and Textbook Amounts 
+ 
+For more information, see line 323 in the guide. 
+ 
+Only the student must complete this schedule and attach it to his or her 
+return. Use it to: 
+ 
+- calculate your federal tuition, education, and textbook amounts; 
+ 
+- determine the federal amount available to transfer to a designated 
+individual; and 
+ 
+- determine the unused federal amount, if any, available for you to carry 
+forward to a future year. 
+ 
+Tuition, education, and textbook amounts claimed by the student for 2013 
+ 
+Line 1: Unused federal tuition, education, and textbook amounts from your 
+2012 notice of assessment or notice of reassessment ^
+ 
+Line 2 and line 320: Eligible tuition fees paid for 2013 ^
+ 
+Education and textbook amounts for 2013 
+ 
+Part-time student: use column B of Forms T2202A, TL11A, TL11B, and TL11C.  
+Do not include any month that is also included in column C. 
+Only one claim per month (maximum 12 months) 
+ 
+Education amount: 
+Line 3: Number of months from column B ^
+multiplied by $120 = ^
+ 
+Textbook amount: 
+Line 4: Number of months from column B ^
+multiplied by $20 = ^
+ 
+Line 5 and line 321: Add lines 3 and 4. = ^
+ 
+Full-time student: use column C of Forms T2202A, TL11A, TL11B, and TL11C. 
+Only one claim per month (maximum 12 months) 
+ 
+Education amount: 
+Line 6: Number of months from column C ^
+multiplied by $400 = ^
+ 
+Textbook amount: 
+Line 7: Number of months from column C ^
+multiplied by $65 = ^
+ 
+Line 8 and line 322: Add lines 6 and 7. = ^
+ 
+Line 9: Add lines 2, 5, and 8. Total 2013 tuition, education, and textbook 
+amounts = ^
+ 
+Line 10: Add lines 1 and 9. Total available tuition, education, and textbook 
+amounts = ^
+ 
+Line 11: Enter the amount of your taxable income from line 260 of your return 
+if it is $43,561 or less. If your taxable income is more than $43,561, enter 
+instead the result of the following calculation: amount from line 46 of your 
+Schedule 1 divided by 15%. ^
+ 
+Line 12: Total of lines 1 to 23 of your Schedule 1 ^
+ 
+Line 13: Line 11 minus line 12 (if negative, enter "0") = ^
+ 
+Line 14: Unused tuition, education, and textbook amounts claimed for 2013 
+Amount from line 1 or line 13, whichever is less ^
+ 
+Line 15: Line 13 minus line 14 = ^
+ 
+Line 16: 2013 tuition, education, and textbook amounts claimed for 2013 
+Amount from line 9 or line 15, whichever is less ^
+ 
+Line 17: Add lines 14 and 16. Enter this amount on line 323 of Schedule 1 
+Total tuition, education, and textbook amounts claimed for 2013 = ^
+ 
+Transfer or Carryforward of unused amount 
+ 
+Line 18: Amount from line 10 ^
+Line 19: Amount from line 17 ^
+Line 20: Line 18 minus line 19 Total unused amount = ^
+ 
+If you are transferring an amount to another individual, continue on line 21. 
+Otherwise, enter the amount from line 20 on line 25. 
+ 
+Line 21: Enter the amount from line 9. (maximum $5,000) ^
+ 
+Line 22: Amount from line 16 ^
+ 
+Line 23: Line 21 minus line 22 (if negative, enter "0") Maximum transferable 
+= ^
+ 
+You can transfer all or part of the amount on line 23 to your spouse or 
+common-law partner, to his or her parent or grandparent, or to your parent or 
+grandparent. To do this, you have to designate the individual and specify the 
+federal amount that you are transferring to him or her on your Form T2202A, 
+TL11A, TL11B, or TL11C. Enter the amount on line 24 below. 
+ 
+Note: If your spouse or common-law partner is claiming an amount for you on 
+line 303 or line 326 of his or her Schedule 1, you cannot transfer an amount 
+to your parent or grandparent, or to your spouse's or common-law partner's 
+parent or grandparent. 
+ 
+Line 24 and line 327: Enter the amount you are transferring (cannot be more 
+than line 23). Federal amount transferred ^
+ 
+Line 25: Line 20 minus line 24 Unused federal amount available to carry 
+forward to a future year = ^
+ 
+The person claiming the transfer should not attach this schedule to his or 
+her return. 
+ 
+Privacy Act, Personal Information Bank number CRA PPU 005

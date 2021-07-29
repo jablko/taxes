@@ -1,0 +1,17 @@
+name: CI
+on:
+  push:
+    branches: [upstream]
+  pull_request:
+    branches: [upstream]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: make
+      - run: git add .
+      - run: git config user.name github-actions
+      - run: git config user.email github-actions@github.com
+      - run: git commit --message '🤖 Update forms'
+      - run: git push

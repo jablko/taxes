@@ -1,0 +1,45 @@
+﻿5010-TC 
+ 
+T1 General - 2010 
+ 
+BC479 
+ 
+British Columbia Credits 
+ 
+Complete the calculations that apply to you and attach a copy to your return. 
+For more information, see the forms book. 
+ 
+British Columbia venture capital tax credit 
+ 
+Line 1 and line 6049: Enter your venture capital tax credit from Certificate 
+SBVC 10 for shares acquired in 2010. ^
+ 
+Line 2 and line 6050: Enter your venture capital tax credit from Certificate 
+SBVC 10 for shares purchased during the first 60 days of 2011 that you elect 
+to claim in 2010. ^ 
+ 
+Line 3: Enter your unused venture capital tax credit from previous years 
+shown on your most recent notice of assessment or notice of reassessment. ^
+ 
+Line 4: Add lines 1, 2, and 3. (maximum $60,000) = ^
+ 
+British Columbia mining exploration tax credit 
+ 
+Line 5 and line 6051: Enter your mining exploration tax credit from Form T88. 
+^
+ 
+Line 6 and line 6053: Enter your mining exploration tax credit allocated from 
+a partnership from Form T88. ^
+ 
+British Columbia training tax credit 
+ 
+Line 7 and line 6055: Enter your training tax credit for individuals from 
+Form T1014. ^
+ 
+Line 8 and line 6056: Enter your training tax credit for employers from Form 
+T1014-1. ^
+ 
+Line 9: Add lines 7 and 8. = ^
+ 
+Line 10: Add lines 4, 5, and 9. British Columbia credits = ^
+Enter the result on line 479 of your return.

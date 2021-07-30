@@ -1,0 +1,113 @@
+﻿5000-S9 
+ 
+Protected B when completed 
+ 
+T1-2018 
+ 
+Schedule 9 
+ 
+Donations and Gifts 
+ 
+Complete this schedule and attach it to your return to claim an amount on 
+line 349 of your Schedule 1. 
+ 
+For more information, see Pamphlet P113, Gifts and Income Tax. 
+ 
+Eligible amount of charitable donations 
+ 
+Include at lines 1 to 4 all the eligible amounts of donations you want to 
+claim this year. This includes the eligible amount of donations that either 
+you, or your spouse or common-law partner made in 2018 or in any of the 
+previous 5 years that have not been claimed before. Remember, you may have 
+charitable donations shown on your T4 and T4A slips. If you are claiming 
+gifts made to a United States charity, see Pamphlet P113. 
+ 
+Line 1: Donations made to registered charities, registered Canadian amateur 
+athletic associations, and registered Canadian low-cost housing corporations 
+for the aged ^
+ 
+Line 2 and line 329: Donations made to government bodies (government of 
+Canada, a province, a territory, registered municipalities in Canada, or 
+registered municipal or public bodies performing a function of government in 
+Canada) ^
+ 
+Line 3 and line 333: Donations made to registered universities outside Canada 
+^
+ 
+Line 4 and line 334: Donations made to the United Nations, its agencies, and 
+certain registered foreign charitable organizations ^
+ 
+Line 5: Add lines 1 to 4. Total eligible amount of charitable donations = ^
+ 
+Donations limit 
+ 
+Line 6: Enter your net income from line 236 of your return. ^
+Line 7: multiplied by 75% = ^
+ 
+If line 5 is less than line 7, enter the amount from line 5 on line 13 below 
+and continue on line 14. Otherwise, complete lines 8 to 12, before continuing 
+on line 13. 
+ 
+Line 8 and line 337: Gifts of depreciable property (from Chart 2 in Pamphlet 
+P113) ^
+ 
+Line 9 and line 339: Gifts of capital property (from Chart 1 in Pamphlet 
+P113) ^
+ 
+Line 10: Add lines 8 and 9. = ^
+Line 11: multiplied by 25% = ^
+ 
+Line 12: Enter the total of lines 7 and 11 or the amount on line 236 of your 
+return, whichever is less. Total donations limit = ^
+ 
+Donations and gifts 
+ 
+Line 13 and line 340: Allowable charitable donations. If you did not complete 
+lines 8 to 12, enter the amount from line 5. Otherwise, enter the amount from 
+line 5 or line 12, whichever is less. ^
+ 
+Line 14 and line 342: Eligible amount of cultural and ecological gifts (See 
+Pamphlet P113.) ^
+ 
+Line 15: Add lines 13 and 14. = ^
+ 
+Line 16: Enter $200 or the amount from line 15, whichever is less. ^
+ 
+Line 17: Line 15 minus line 16. = ^
+ 
+If your taxable income is less than $205,842, enter "0" on line 26 and 
+continue on line 28. Otherwise, complete lines 18 to 27, before continuing on 
+line 28. 
+ 
+Line 18: Enter the amount from line 17. ^
+ 
+Line 19 and line 354: Total of your donations made before 2016 included on 
+lines 5 and 14, to a maximum of the amount on line 15. ^
+ 
+Line 20: Line 18 minus line 19 (if negative, show it in brackets) = ^
+ 
+Line 21: Enter the amount from line 16 or line 19, whichever is less. ^
+ 
+Line 22: Add lines 20 and 21. = ^
+ 
+Line 23: Enter your taxable income from line 260 of your return. ^
+ 
+Line 24: Income threshold 205,842.00 
+ 
+Line 25: Line 23 minus line 24 (if negative enter "0") = ^
+ 
+Line 26: If you did not complete lines 18 to 25, enter "0". Otherwise, enter 
+the amount from line 22 or line 25, whichever is less. ^
+Line 27: multiplied by 33% = ^
+ 
+Line 28: If you did not complete lines 18 to 27, enter the amount from line 
+17. Otherwise, enter the result of line 17 minus line 26. ^
+Line 29: Multiplied by 29% = ^
+ 
+Line 30: Enter the amount from line 16. ^
+Line 31: Multiplied by 15% = ^
+ 
+Line 32: Add lines 27, 29, and 31. Donations and Gifts = ^
+Enter this amount on line 349 of your Schedule 1. 
+ 
+See the privacy notice on your return.

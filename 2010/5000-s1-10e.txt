@@ -1,0 +1,215 @@
+﻿5000-S1 (Front) 
+ 
+T1 - 2010 
+ 
+Schedule 1 
+ 
+Federal Tax 
+ 
+Complete this schedule, and attach a copy to your return. 
+ 
+For more information, see the related line in the guide. 
+ 
+Step 1 - Federal non-refundable tax credits 
+ 
+Line 1 and line 300: Basic personal amount claim $10,382 ^
+ 
+Line 2 and line 301: Age amount (if you were born in 1945 or earlier) (use 
+federal worksheet) (maximum $6,446) ^
+ 
+Line 3 and line 303: Spouse or common-law partner amount (if negative, enter 
+"0") $10,382 minus (^
+his or her net income from page 1 of your return) = ^
+ 
+Line 4 and line 305: Amount for an eligible dependant (attach Schedule 5) (if 
+negative, enter "0") $10,382 minus (^
+his or her net income) = ^
+ 
+Line 5 and line 367: Amount for children born in 1993 or later Number of 
+children line 366 ^
+multiplied by $2,101 = ^
+ 
+Line 6 and line 306: Amount for infirm dependants age 18 or older (use 
+federal worksheet and attach Schedule 5) ^
+ 
+CPP or QPP contributions: 
+Line 7 and line 308: through employment from box 16 and box 17 on all T4 
+slips (maximum $2,163.15) ^
+ 
+Line 8 and line 310: on self-employment and other earnings (attach Schedule 
+8) ^
+ 
+Employment Insurance premiums: 
+Line 9 and line 312: through employment from box 18 and box 55 on all T4 
+slips (maximum $747.36) ^
+ 
+Line 10 and line 317: on self-employment and other eligible earnings (attach 
+Schedule 13) ^
+ 
+Line 11 and line 363: Canada employment amount (if you reported employment 
+income on line 101 or line 104, see line 363 in the guide) (maximum $1,051) ^
+ 
+Line 12 and line 364: Public transit amount ^
+ 
+Line 13 and line 365: Children's fitness amount ^
+ 
+Line 14 and line 369: Home buyers' amount (see line 369 in the guide) ^
+ 
+Line 15 and line 313: Adoption expenses ^
+ 
+Line 16 and line 314: Pension income amount (use federal worksheet) (maximum 
+$2,000) ^
+ 
+Line 17 and line 315: Caregiver amount (use federal worksheet and attach 
+Schedule 5) ^
+ 
+Line 18 and line 316: Disability amount (for self) (claim $7,239 or, if you 
+were under 18 years of age, use federal worksheet) ^
+ 
+Line 19 and line 318: Disability amount transferred from a dependant (use 
+federal worksheet) ^
+ 
+Line 20 and line 319: Interest paid on your student loans ^
+ 
+Line 21 and line 323: Tuition, education, and textbook amounts (attach 
+Schedule 11) ^
+ 
+Line 22 and line 324: Tuition, education, and textbook amounts transferred 
+from a child ^
+ 
+Line 23 and line 326: Amounts transferred from your spouse or common-law 
+partner (attach Schedule 2) ^
+ 
+Line 330: Medical expenses for self, spouse or common-law partner, and your 
+dependent children born in 1993 or later ^
+ 
+Minus: $2,024 or 3% of line 236, whichever is less ^
+ 
+Line (A): Subtotal (if negative, enter "0") = ^
+ 
+Line (B) and line 331: Allowable amount of medical expenses for other 
+dependants (do the calculation at line 331 in the guide and attach Schedule 
+5) ^
+ 
+Line 24 and line 332: Add lines (A) and (B). = ^
+ 
+Line 25 and line 335: Add lines 1 to 24. = ^
+ 
+Line 26 and line 338: Multiply the amount on line 25 by 15%. = ^
+ 
+Line 27 and line 349: Donations and gifts (attach Schedule 9) ^
+ 
+Line 28 and line 350: Add lines 26 and 27. Enter this amount on line 40 on 
+the next page. Total federal non-refundable tax credits = ^
+ 
+Go to Step 2 on the next page. 
+ 
+ 
+5000-S1 (Back) 
+ 
+Step 2 - Federal tax on taxable income 
+ 
+Line 29: Enter your taxable income from line 260 of your return. ^
+ 
+Use the amount on line 29 to determine which ONE of the following columns you 
+have to complete. 
+ 
+*** Transcriber's Note: Use column 1 if the amount on line 29 is $40,970 or 
+less. Use column 2 if the amount on line 29 is more than $40,970 but not more 
+than $81,941. Use column 3 if the amount on line 29 is more than $81,941 but 
+not more than $127,021. Use column 4 if the amount on line 29 is more than 
+$127,021. *** 
+ 
+Column 1 
+Line 30: Enter the amount from line 29. ^ 
+Line 31: Base amount 00,000.00 
+Line 32: Line 30 minus line 31 (cannot be negative) = ^ 
+Line 33: Rate 15% 
+Line 34: Multiply line 32 by 15% = ^ 
+Line 35: Tax on base amount 00,000.00 
+Line 36: Add lines 34 and 35. = ^ 
+Go to Step 3. 
+ 
+Column 2 
+Line 30: Enter the amount from line 29. ^ 
+Line 31: Base amount 40,970.00 
+Line 32: Line 30 minus 40,970.00 (cannot be negative) = ^ 
+Line 33: Rate 22% 
+Line 34: Multiply line 32 by 22% = ^ 
+Line 35: Tax on base amount 6,146.00 
+Line 36: Add lines 34 and 35. = ^ 
+Go to Step 3. 
+ 
+Column 3 
+Line 30: Enter the amount from line 29. ^ 
+Line 31: Base amount 81,941.00 
+Line 32: Line 30 minus 81,941.00 (cannot be negative) = ^ 
+Line 33: Rate 26% 
+Line 34: Multiply line 32 by 26% = ^ 
+Line 35: Tax on base amount 15,159.00 
+Line 36: Add lines 34 and 35. = ^ 
+Go to Step 3. 
+ 
+Column 4 
+Line 30: Enter the amount from line 29. ^ 
+Line 31: Base amount 127,021.00 
+Line 32: Line 30 minus 127,021.00 (cannot be negative) = ^ 
+Line 33: Rate 29% 
+Line 34: Multiply line 32 by 29% = ^ 
+Line 35: Tax on base amount 26,880.00 
+Line 36: Add lines 34 and 35. = ^ 
+Go to Step 3. 
+ 
+Step 3 - Net federal tax 
+ 
+Line 37: Enter the amount from line 36 above. ^
+ 
+Line 38 and line 424: Federal tax on split income (from line 5 of Form T1206) 
+^
+ 
+Line 39 and line 404: Add lines 37 and 38. = ^
+ 
+Line 40 and line 350: Enter your total federal non-refundable tax credits 
+from line 28 of the previous page. ^
+ 
+Line 41 and line 425: Federal dividend tax credit (see line 425 in the guide) 
+^
+ 
+Line 42 and line 426: Overseas employment tax credit (attach Form T626) ^
+ 
+Line 43 and line 427: Minimum tax carryover (attach Form T691) ^
+ 
+Line 44: Add lines 40 to 43. = ^
+ 
+Line 45 and line 429: Line 39 minus line 44 (if negative, enter "0"). Basic 
+federal tax = ^
+ 
+Line 46 and line 405: Federal foreign tax credit (attach Form T2209) ^
+ 
+Line 47 and line 406: Line 45 minus line 46 (if negative, enter "0") Federal 
+tax = ^
+ 
+Line 409: Total federal political contributions (attach receipts) ^
+ 
+Line 48 and line 410: Federal political contribution tax credit (use federal 
+worksheet) ^
+ 
+Line 49 and line 412: Investment tax credit (attach Form T2038(IND)) ^
+ 
+Line 50: Labour-sponsored funds tax credit 
+Line 413: Net cost ^
+Line 414: Allowable credit ^
+ 
+Line 51 and line 416: Add lines 48, 49, and 50. = ^
+ 
+Line 52 and line 417 Line 47 minus line 51 (if negative, enter "0"). = ^
+If you have an amount on line 38 above, see Form T1206. 
+ 
+Line 53 and line 415: Working Income Tax Benefit (WITB) advance payments 
+received (box 10 on the RC210 slip) ^
+ 
+Line 54 and line 418: Additional tax on RESP accumulated income payments 
+(attach Form T1172) ^
+ 
+Line 55 and line 420: Add lines 52, 53, and 54. Net federal tax = ^
+Enter this amount on line 420 of your return.

@@ -1,0 +1,116 @@
+﻿5000-S5 
+ 
+Protected B when completed 
+ 
+T1-2017 
+ 
+Schedule 5 
+ 
+Amounts for Spouse or Common-Law Partner and Dependants 
+ 
+See the guide to find out if you can claim an amount on line 303, 304, 305, 
+or 307 of Schedule 1. For each dependant claimed, provide the details 
+requested below. Attach a copy of this schedule to your return. 
+ 
+Lines 303 – Spouse or common-law partner amount 
+ 
+Did your marital status change to other than married or common-law in 2017? 
+ 
+Box 5522: If yes, tick this box (enter yes) ^
+and enter the date of the change. (Month/Day) ^
+ 
+Line 1: Base amount 11,635.00 
+ 
+Line 2 and line 5109: If you are entitled to the Canada caregiver amount for 
+your spouse or common-law partner, enter $2,150 (see page 44 in the guide and 
+line 304 below). ^
+ 
+Line 3: Add lines 1 and 2. = ^
+ 
+Line 4: Spouse's or common-law partner's net income from page 1 of your 
+return ^
+ 
+Line 5: Line 3 minus line 4 (if negative, enter "0"). Enter this amount on 
+line 303 of your Schedule 1. = ^
+ 
+Line 304 – Canada caregiver amount for spouse or common-law partner, or your 
+eligible dependant age 18 or older 
+ 
+Complete this calculation only if you entered $2,150 on line 5109 or line 
+5110 of this schedule for a person whose net income is between $6,902 and 
+$23,046. 
+ 
+Line 1: Base amount 23,046.00 
+ 
+Lie 2: Net income of this person (line 236 of his or her return) ^
+ 
+Line 3: Line 1 minus line 2 (if negative, enter "0"). (maximum $6,883)= ^
+ 
+Line 4: If you claimed this person on line 303 or 305 of Schedule 1, enter 
+the amount you claimed. ^
+ 
+Line 5: Allowable amount for this person: line 3 minus line 4 (if negative, 
+enter "0") = ^
+Enter this amount on line 304 of your Schedule 1. ^
+ 
+Line 305 - Amount for an eligible dependant 
+ 
+Did your marital status change to married or common-law in 2017? 
+ 
+Box 5529: If yes, tick this box (enter yes) ^
+and enter the date of the change. (Month/Day) ^
+ 
+Provide the requested information and complete the following calculation for 
+this dependant. 
+ 
+First and last name: ^
+Address: ^
+Year of birth: ^
+Relationship to you: ^
+Is this dependant physically or mentally infirm? Yes or No ^
+ 
+Line 1: Base amount 11,635.00 
+ 
+Line 2 and line 5110: If you are entitled to the Canada caregiver amount for 
+your dependant (other than your infirm child under 18 years of age), enter 
+$2,150 (see page 44 in the guide, read the note below, and see line 304 
+above). ^
+ 
+Line 3: Add lines 1 and 2. = ^
+ 
+Line 4 and line 5106: Dependant's net income (line 236 of his or her return) 
+^
+ 
+Line 5: Line 3 minus line 4 (if negative, enter "0"). Enter this amount on 
+line 305 of your Schedule 1. = ^
+ 
+Note: 
+If the dependant is your or your spouse's or common-law partner's infirm 
+child under 18 years of age, you must claim the Canada caregiver amount on 
+line 367, and not on line 5110. 
+ 
+Line 307 – Canada caregiver amount for other infirm dependants age 18 or 
+older (attach a separate sheet if you need more space) 
+ 
+Provide the requested information and complete the following calculation for 
+each dependant. 
+ 
+First and last name: ^
+Address: ^
+Year of birth: ^
+Relationship to you: ^
+ 
+Line 1: Base amount 23,046.00 
+ 
+Line 2: Infirm dependant's net income (line 236 of his or her return) ^
+ 
+Line 3: Allowable amount for this dependant: line 1 minus line 2 (if 
+negative, enter "0") (maximum $6,883) = ^
+ 
+Enter on line 307 of your Schedule 1 the total amount you are claiming for 
+all dependants. 
+ 
+Box 5112: Enter the total number of dependants for whom you are claiming and 
+amount at this line. 
+ 
+See the privacy notice on your return.

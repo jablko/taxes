@@ -1,0 +1,85 @@
+﻿5000-S2 
+ 
+Protected B when completed 
+ 
+T1-2019 
+ 
+Schedule 2 
+ 
+Federal Amounts Transferred From Your Spouse or Common-Law Partner 
+ 
+You may be able to claim all or part of certain amounts for which your spouse 
+or common law partner qualifies if they did not need the whole amount to 
+reduce their federal tax to zero. 
+ 
+Complete this schedule and attach it to your return to claim a transfer of 
+the unused part of your spouse's or common-law partner's amounts as shown 
+below. 
+ 
+If you were separated because of a breakdown in your relationship for a 
+period of 90 days or more including December 31, 2019, your spouse or common-
+law partner cannot transfer any unused amounts to you. 
+ 
+If your spouse or common-law partner is filing a return, use the amounts that 
+they entered on their return, schedules and worksheets. 
+ 
+If your spouse or common-law partner is not filing a return, use the amounts 
+that they would enter on their return, schedules and worksheets as if they 
+were filing a return and attach their information slips. 
+ 
+Line 1 and line 35200: Age amount (if your spouse or common-law partner was 
+65 years of age or older in 2019): If their net income is $37,790 or less, 
+enter $7,494. Otherwise, enter the amount from line 30100 of their return. ^
+ 
+Line 2 and line 353000: Canada caregiver amount for infirm children under 18 
+years of age: Enter the amount from line 30500 of their return. ^
+ 
+Line 3 and line 35500: Pension income amount: Enter the amount from line 
+31400 of their return. (maximum $2,000) ^
+ 
+Line 4 and line 35700: Disability amount: (see note 1 below) Enter the amount 
+from line 31600 of their return. ^
+ 
+Line 5 and line 36000: Tuition amount: (see note 2 below) Enter the federal 
+amount designated to you as shown on their Form T2202, TL11A, or TL11C. ^
+ 
+Line 6: Add lines 1 to 5. = ^
+ 
+Line 7: Spouse's or common-law partner's taxable income: Enter the amount of 
+their taxable income from line 26000 of their return if it is $47,630 or 
+less. Otherwise, complete Part B of Step 5 of their return and enter the 
+result of the following calculation: amount from line 43 in Part C of their 
+return divided by 15%. ^
+ 
+Line 8: Enter the total of lines 30000, 30800, 31000, 31200, 31217, 31220, 
+31240, 31260, 31270, 31285, and 31300 of their return plus line 11 of their 
+Schedule 11. ^
+ 
+Line 9 and line 36100: Spouse's or common-law partner's adjusted taxable 
+income: Line 7 minus line 8 (if negative, enter "0") = ^
+ 
+Line 10: Line 6 minus line 9 (if negative, enter "0") Enter this amount on 
+line 32600 of your return. Federal amounts transferred from your spouse or 
+common-law partner ^
+ 
+Note 1 
+If the amount on this line includes a new claim for the disability amount, 
+attach a completed and certified Form T2201, Disability Tax Credit 
+Certificate. Before assessing your return, the Canada Revenue Agency (CRA) 
+will review your claim to see if your spouse or common-law partner is 
+eligible for the disability tax credit. If your spouse or common-law partner 
+was eligible for 2018 and still meets the requirements in 2019, you can claim 
+this amount without sending the CRA a new Form T2201. However, you must send 
+the CRA a new one if the previous period of approval ended before 2019 or if 
+the CRA asks you to do this. 
+ 
+Note 2 
+The maximum tuition amount your spouse or common-law partner can transfer to 
+you is $5,000 minus the current year amounts they use, even if there is still 
+an unused part. Your spouse or common-law partner cannot transfer to you any 
+tuition, education, or textbook amounts carried forward from a previous year. 
+ 
+Complete the provincial or territorial schedule (S2) to calculate your 
+provincial or territorial amounts. 
+ 
+See the privacy notice on your return.

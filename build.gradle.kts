@@ -15,15 +15,12 @@ dependencies {
 sourceSets {
   main {
     java {
-      srcDir(".")
-      exclude("**/*.gradle.kts")
-      // exclude(buildDir)
-      exclude("build/**")
+      srcDir("src")
       srcDir(tasks.generateGrammarSource)
     }
     antlr {
-      // srcDir(".") // error(7):  cannot find or open file: ../../../Form.g4
-      setSrcDirs(listOf("."))
+      // srcDir("src") // error(7):  cannot find or open file: ../../Form.g4
+      setSrcDirs(listOf("src"))
     }
   }
 }

@@ -3,6 +3,7 @@
 build/
 node_modules/
 packages/rehype-remark/**/*.js
+packages/remark-parse/**/*.js
 packages/website/.cache/
 packages/website/public/
 packages/website/src/pages/20*/

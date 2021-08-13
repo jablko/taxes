@@ -1,5 +1,7 @@
 {
+  "name": "@taxes/root",
   "scripts": {
+    "postinstall": "npm link && npm link --ignore-scripts @taxes/root",
     "test": "rehype --output --use @taxes/rehype-remark 20*/*.html && prettier --check ."
   },
   "devDependencies": {

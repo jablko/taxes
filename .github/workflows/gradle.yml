@@ -6,12 +6,14 @@ on:
       - package-lock.json
       - package.json
       - packages/**
+      - tsconfig.json
   pull_request:
     branches: [main]
     paths-ignore:
       - package-lock.json
       - package.json
       - packages/**
+      - tsconfig.json
 jobs:
   build:
     runs-on: ubuntu-latest

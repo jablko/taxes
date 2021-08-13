@@ -1,6 +1,7 @@
 {
   "extends": "@taxes/root",
   "compilerOptions": {
-    "allowSyntheticDefaultImports": true
+    "module": "commonjs",
+    "esModuleInterop": true
   }
 }

@@ -1,0 +1,9 @@
+{
+  "version": "9.0.0",
+  "scripts": {
+    "build": "tsc --build"
+  },
+  "devDependencies": {
+    "mdast-util-mdx-jsx": "^1.1.0"
+  }
+}

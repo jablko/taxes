@@ -1,9 +1,13 @@
 {
   "scripts": {
-    "build": "gatsby build"
+    "build": "gatsby build",
+    "test": "tsc --build"
   },
   "dependencies": {
     "gatsby": "^3.10.2",
     "gatsby-plugin-mdx": "^2.10.1"
+  },
+  "peerDependencies": {
+    "@mdx-js/mdx": "^2.0.0-next.9"
   }
 }

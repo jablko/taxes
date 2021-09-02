@@ -7,7 +7,7 @@ repositories { mavenCentral() }
 
 dependencies {
   implementation(rootProject)
-  implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.1")
+  implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2")
 }
 
 sourceSets {

@@ -4,7 +4,7 @@
     "test": "tsc --build"
   },
   "dependencies": {
-    "gatsby": "^3.14.1",
+    "gatsby": "^3.14.2",
     "gatsby-plugin-mdx": "^2.14.0"
   },
   "peerDependencies": {

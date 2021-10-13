@@ -1,7 +1,7 @@
 plugins {
   kotlin("jvm") version "1.5.31"
   antlr
-  id("com.diffplug.spotless") version "5.16.0"
+  id("com.diffplug.spotless") version "5.17.0"
 }
 
 repositories { mavenCentral() }

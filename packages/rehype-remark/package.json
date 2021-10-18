@@ -4,7 +4,7 @@
     "build": "tsc --build"
   },
   "dependencies": {
-    "hast-util-to-mdast": "^8.2.1",
+    "hast-util-to-mdast": "^8.3.0",
     "remark-footnotes": "^4.0.1",
     "remark-stringify": "^10.0.1",
     "unified": "^10.0.1",

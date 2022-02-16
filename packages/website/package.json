@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "gatsby": "^4.7.1",
-    "gatsby-plugin-mdx": "^3.6.0"
+    "gatsby-plugin-mdx": "^3.7.1"
   },
   "peerDependencies": {
     "@mdx-js/mdx": "^2.0.0-next.9"

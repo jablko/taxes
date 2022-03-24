@@ -7,7 +7,7 @@ repositories { mavenCentral() }
 
 dependencies {
   implementation(rootProject)
-  implementation("org.jetbrains.kotlinx:kotlinx-html:0.7.4")
+  implementation("org.jetbrains.kotlinx:kotlinx-html:0.7.5")
   implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.2")
 }
 

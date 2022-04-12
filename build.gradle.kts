@@ -6,7 +6,7 @@ plugins {
 
 repositories { mavenCentral() }
 
-dependencies { antlr("org.antlr:antlr4:4.9.3") }
+dependencies { antlr("org.antlr:antlr4:4.10") }
 
 sourceSets {
   main {

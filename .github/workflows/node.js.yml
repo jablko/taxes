@@ -37,7 +37,7 @@ jobs:
       - run: npm test --if-present
       - run: npm test --if-present --workspaces
       - run: git diff --exit-code
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         with:
           name: website
           path: packages/website/public

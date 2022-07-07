@@ -1,5 +1,5 @@
 plugins {
-  kotlin("jvm") version "1.7.0"
+  kotlin("jvm") version "1.7.10"
   antlr
   id("com.diffplug.spotless") version "6.8.0"
 }

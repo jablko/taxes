@@ -5,7 +5,7 @@
     "test": "rehype --output --use @taxes/rehype-remark 20*/*.html && prettier --check ."
   },
   "devDependencies": {
-    "prettier": "^2.7.1",
+    "prettier": "^2.8.1",
     "rehype-cli": "^11.0.1"
   },
   "workspaces": [

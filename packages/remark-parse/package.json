@@ -4,6 +4,6 @@
     "build": "tsc --build"
   },
   "devDependencies": {
-    "mdast-util-mdx-jsx": "^2.0.1"
+    "mdast-util-mdx-jsx": "^2.1.1"
   }
 }
